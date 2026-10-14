@@ -1,13 +1,13 @@
 {
   "id": "P043",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "convenience",
-  "reason": "Parking pod budynkiem i blisko domu to dla mnie najważniejsze, a osobna miękka strefa dla maluchów 0–2 to coś, czego w dużych salach w galeriach brakuje. W deszczowy weekend wolę to niż tłum w Matarni, więc spróbuję, zwłaszcza za 15 zł na otwarcie.",
-  "objection": "W weekend za 30 zł za godzinę z rocznym dzieckiem, które po 40 minutach chce spać, to sporo, a boję się, że w sobotę przy deszczu będzie komplet 15 dzieci i odbijemy się od drzwi.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Policzyłam w tabelce: na całą grupę z przedszkola (ok. 18 dzieci) FUN to 750 + 600 zł za dzieci, +150 za drugiego animatora, do tego obowiązkowe ciasto dla dorosłych i dopłata za obsługę kawiarni – wychodzi blisko 1800 zł, a 550 zł z reklamy to tylko punkt wyjścia. Dziupla jest blisko i ma świetne opinie, ale za taką kwotę porównam jeszcze z dużą salą w Gdańsku.",
+  "objection": "Za dużo dopłat ukrytych w drobnym druku, a zwłaszcza zakaz przyniesienia własnego ciasta dla dorosłych – czuję, że cena 'od 550 zł' nie ma nic wspólnego z tym, ile naprawdę zapłacę za grupę przedszkolną.",
+  "would_change_my_mind": "Jeden pakiet 'cała grupa przedszkolna' z ceną za ok. 20 dzieci podaną z góry, bez dopłat za animatora i obsługę kawiarni, albo zgoda na własne ciasto dla dorosłych.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 850
 }

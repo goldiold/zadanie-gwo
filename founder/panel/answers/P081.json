@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na roczek przyjdzie 3-4 maluchów i kilkanaścioro dorosłych, a pakiet jest liczony pod 8 dzieci. W mojej tabelce MINI 550 zł plus płatna kawa, obowiązkowe ciasto z ich kuchni za ok. 180 zł i dopłata za obsługę od 10 dorosłych daje 800+ zł, czyli 200+ zł na dziecko, które i tak nie skorzysta z animatora.",
+  "objection": "Płacę za 8 dzieci, a mam trzy roczniaki, a prawdziwy koszt robią dorośli: zakaz własnych ciast, kawa płatna w tańszych pakietach i dopłaty za obsługę kawiarni.",
+  "would_change_my_mind": "Mały pakiet rodzinny na roczek, do 4 dzieci, z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta, w okolicach 500 zł za całość w weekend.",
+  "price_too_cheap": 250,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 650
+}

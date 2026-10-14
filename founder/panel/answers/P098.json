@@ -1,0 +1,13 @@
+{
+  "id": "P098",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "To jest pięć minut od domu w Baninie, 4,9 z 173 opinii, a dziewczyny z grupy 'Mamy z Banina' pewnie już tam były, więc nie muszę wozić dzieci obwodnicą do Gdańska. Biorę FUN z animatorem, bo bez animatora przy grupie z przedszkola nie dam rady.",
+  "objection": "Cała grupa z przedszkola to raczej 15 dzieci, a nie 8, więc z dopłatami za dzieci i drugim animatorem robi się ponad 1300 zł, a do tego nie mogę przynieść własnego ciasta dla dorosłych i muszę dokupić za 170 zł. No i czy w ogóle będzie wolna sobota w miesiącu urodzin.",
+  "would_change_my_mind": "Gdyby nie było wolnego terminu w weekend, poszłabym gdzie indziej albo zrobiła mniejsze urodziny w domu.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 700,
+  "price_too_expensive": 1000
+}

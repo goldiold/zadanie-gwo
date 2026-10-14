@@ -1,13 +1,13 @@
 {
   "id": "P021",
-  "buys": true,
-  "purchases_first_month": 3,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Jest październik, leje, a ja nie mam pomysłu co robić z młodym po przedszkolu czy w wolne przedpołudnie — sala blisko z parkingiem i kawą to dokładnie to, czego szukam. Za 15 zł na otwarcie spróbuję bez wahania, potem zobaczymy.",
-  "objection": "25 zł za godzinę to sporo jak na samą zabawę, a z dojazdem i przekąską robi się z tego 40 zł za wyjście; godzina szybko mija, a dłużej to już robi się drogo.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 10,
-  "price_cheap": 15,
-  "price_expensive": 25,
-  "price_too_expensive": 35
+  "reason": "Na pierwsze urodziny przychodzi głównie rodzina, dorośli, a dzieci jest może trzy, więc sala zabaw z animatorem dla roczniaka to przepłacanie. Zrobimy to w domu, babcia upiecze ciasto i będzie tak samo dobrze.",
+  "objection": "Nie mogę przynieść ciasta babci dla dorosłych, muszę kupić ich ciasto za 170-190 zł, a w MINI kawa dla dorosłych jest płatna, i to przy imprezie, na której właściwie są sami dorośli. Do tego dopłata za obsługę kawiarni od 10 dorosłych. Z 550 zł robi się szybko 900.",
+  "would_change_my_mind": "Mały pakiet dla maluchów 1-3 lat z kawą dla dorosłych w cenie i zgodą na własne ciasto babci, za około 400-450 zł w weekend.",
+  "price_too_cheap": 200,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 700
 }

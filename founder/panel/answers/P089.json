@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mój syn ma 8 lat i chce urodziny w dużym centrum w Gdańsku, gdzie jest więcej atrakcji niż w małej sali z kawiarnią. Robiliśmy już tam imprezę i dzieciaki z klasy były zadowolone, więc nie widzę powodu, żeby zmieniać.",
+  "objection": "Babcia zawsze piecze ciasto, a tu nie wolno przynieść własnego i muszę kupić ciasto za 170-190 zł. Do tego dla ośmiolatków mała sala zabaw może być już trochę za dziecinna.",
+  "would_change_my_mind": "Gdyby pozwolili przynieść ciasto babci i mieli atrakcję dla starszych dzieci, której nie ma w dużym centrum, np. warsztaty eksperymentów w cenie, plus wolny termin w sobotę.",
+  "price_too_cheap": 300,
+  "price_cheap": 500,
+  "price_expensive": 800,
+  "price_too_expensive": 1100
+}

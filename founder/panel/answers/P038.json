@@ -1,13 +1,13 @@
 {
   "id": "P038",
   "buys": true,
-  "purchases_first_month": 2,
+  "purchases_first_month": 1,
   "reason_code": "convenience",
-  "reason": "Mieszkamy w Baninie, więc w deszczową sobotę zamiast jechać obwodnicą do dużej sali w Gdańsku mogę być tu w pięć minut z parkingiem pod budynkiem. Limit 15 dzieci i codzienna dezynfekcja brzmią lepiej niż tłum w galerii, więc spróbuję, szczególnie za 15 zł na otwarcie.",
-  "objection": "Codzienne sprzątanie to za mało, jeśli w weekend przez salę przewinie się kilkadziesiąt dzieci, a basen z kulkami to siedlisko zarazków. Boję się, że po dwóch wizytach dziecko przyniesie katar i cała rodzina wypadnie na tydzień.",
-  "would_change_my_mind": "Gdybym po pierwszej wizycie zobaczył brudny basen z kulkami, chore, kaszlące dzieci bez reakcji obsługi albo tłok w weekend, to bym nie wrócił.",
-  "price_too_cheap": 12,
-  "price_cheap": 20,
-  "price_expensive": 35,
-  "price_too_expensive": 45
+  "reason": "Mam to 5 minut od domu w Baninie, sala na wyłączność, animator, dekoracje i nie muszę nic ogarniać ani sprzątać – wziąłbym EXTRA za 850 zł, żeby dorośli mieli kawę bez liczenia. Opinie 4,9 przy 173 ocenach dają mi spokój, że to nie wtopa.",
+  "objection": "Cena puchnie od dopłat: 70 zł za każde dziecko ponad 8, a z przedszkola przyjdzie pewnie 12-15, do tego obsługa kawiarni za dorosłych i zakaz własnych ciast, więc z 850 robi się 1500+. Nie lubię, jak pakiet wygląda na komplet, a potem wszystko jest osobno.",
+  "would_change_my_mind": "Gdyby końcowa kwota dla 15 dzieci i rodziców wyszła wyraźnie ponad 1600 zł, poszukałbym czegoś z jedną ceną 'all inclusive' w Gdańsku.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 750,
+  "price_too_expensive": 1100
 }

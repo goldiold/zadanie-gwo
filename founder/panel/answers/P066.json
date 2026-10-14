@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na roczek przyjdzie może 3-4 maluchów i kilkanaście dorosłych, więc płacę 550 zł za pakiet na 8 dzieci, których nie mam, a do tego obowiązkowo ciasto z kawiarni ok. 180 zł, dopłata za obsługę dorosłych i jeszcze kawa. W tabelce wychodzi mi ok. 850-900 zł za imprezę, którą w domu albo w restauracji zrobię taniej.",
+  "objection": "Zakaz przynoszenia własnych ciast dla dorosłych i dopłaty za dorosłych - przy roczku to dorośli są większością gości, więc realna cena jest dużo wyższa niż 550 zł.",
+  "would_change_my_mind": "Mniejszy pakiet na roczek (do 4 dzieci, ok. 350-400 zł) z możliwością przyniesienia własnego ciasta i kawą dla dorosłych w cenie.",
+  "price_too_cheap": 200,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 700
+}

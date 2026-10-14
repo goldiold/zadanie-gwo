@@ -1,13 +1,13 @@
 {
   "id": "P002",
-  "buys": true,
-  "purchases_first_month": 4,
-  "reason_code": "need",
-  "reason": "Po odwiezieniu starszego do przedszkola zostaję z maluchem i w szare przedpołudnie nie mam gdzie z nim pójść w Baninie, a tu jest osobna miękka strefa 0-2 blisko domu. Za 15 zł na otwarcie sprawdzę to od razu, a jak będzie OK, chodziłbym mniej więcej raz w tygodniu.",
-  "objection": "Czy ta strefa dla maluchów jest naprawdę oddzielona, czy to tylko kawałek maty, na który i tak wbiegają rozbrykane czterolatki. Jeśli przy 15 dzieciach starszaki będą tam wpadać, to dla niemowlaka to nie jest bezpieczne i więcej nie przyjdę.",
-  "would_change_my_mind": "Gdyby na miejscu okazało się, że strefa 0-2 nie ma fizycznej barierki i starsze dzieci swobodnie do niej wchodzą.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na roczek przyjdzie może 3-4 maluchów i kilkanaście dorosłych z rodziny, więc płacę 550 zł za 8 dzieci, których nie będzie, a do tego dopłata za obsługę kawiarni i obowiązkowe ciasta po 170-190 zł, bo babcinego przynieść nie wolno. W mojej tabelce wychodzi drożej niż obiad w restauracji z salką, a roczniak i tak nie skorzysta z animatora ani z 30 dni wejść.",
+  "objection": "Zakaz własnych ciast dla dorosłych i dopłaty za dorosłych, kiedy na rodzinnym roczku to dorośli są większością gości; plus nie wiem, czy w ogóle jest wolny termin w weekend.",
+  "would_change_my_mind": "Mały pakiet na roczek dla 4-5 maluchów i do 15 dorosłych w jednej cenie około 400-450 zł w weekend, z możliwością przyniesienia domowego ciasta.",
+  "price_too_cheap": 250,
+  "price_cheap": 380,
+  "price_expensive": 550,
+  "price_too_expensive": 750
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P059",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Policzyłem w tabelce: na całą klasę, czyli 20 dzieci, FUN wychodzi 750 + 12×60 + 150 za drugiego animatora = 1620 zł, a do tego dorośli i ciasto, którego nie mogę przynieść. Cena bazowa wygląda okej, ale po dopłatach to już inna liga, więc najpierw porównam z 2-3 innymi salami.",
+  "objection": "Pakiet do 8 dzieci to fikcja dla siedmiolatka, który chce zaprosić całą klasę – realny koszt rośnie przez dopłaty za każde dziecko, drugiego animatora i zakaz własnych ciast dla dorosłych.",
+  "would_change_my_mind": "Pakiet klasowy na 20 dzieci z animatorem w jednej cenie około 1100-1200 zł, bez ukrytych dopłat i z możliwością przyniesienia własnego ciasta.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 850
+}

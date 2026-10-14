@@ -1,13 +1,13 @@
 {
   "id": "P037",
   "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "price",
-  "reason": "Za 15 zł na otwarcie sprawdzę, bo to blisko domu i nie muszę wracać do Gdańska po pracy. Ale po promocji 25-30 zł za godzinę to dużo, w dużej sali w Gdańsku płacę podobnie i mam więcej atrakcji na dłużej.",
-  "objection": "Płacenie za każdą godzinę: dziecko po godzinie się dopiero rozkręca, a w weekend 30 zł za mały lokal to drożej niż duża sala z większą liczbą atrakcji. W tygodniu zdążę dopiero na 17-18, więc zostaje mi głównie weekend.",
-  "would_change_my_mind": "Gdyby po promocji w tygodniu po 16:00 był bilet bez limitu czasu albo karnet taniej, np. 10 godzin za 180 zł, chodziłabym regularnie zamiast jeździć do Gdańska.",
-  "price_too_cheap": 10,
-  "price_cheap": 15,
-  "price_expensive": 22,
-  "price_too_expensive": 30
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Mam to pod nosem w Baninie, sala na wyłączność, dekoracje i sprzątanie z głowy, 4,9 na Google – biorę EXTRA i nic nie muszę organizować. Za grupę z przedszkola i tak wyjdzie ponad tysiąc, ale za święty spokój zapłacę.",
+  "objection": "Animator dopiero w droższym pakiecie, a potem dopłaty za każde dziecko ponad 8, za obsługę dorosłych, za piniatę, i jeszcze nie mogę przynieść własnego ciasta – boję się, że ostateczny rachunek wyjdzie dużo wyżej niż cena z cennika.",
+  "would_change_my_mind": "Gdyby po zliczeniu całej grupy z przedszkola i dorosłych wyszło grubo ponad 1500 zł albo gdyby nie było wolnego terminu w weekend, poszłabym gdzie indziej.",
+  "price_too_cheap": 300,
+  "price_cheap": 500,
+  "price_expensive": 850,
+  "price_too_expensive": 1300
 }

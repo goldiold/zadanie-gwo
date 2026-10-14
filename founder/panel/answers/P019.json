@@ -1,13 +1,13 @@
 {
   "id": "P019",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "values",
-  "reason": "Uważam, że dziecko powinno się bawić na dworze, a plac zabaw i las mam za darmo. Pracuję, więc nie mam wolnych przedpołudni, a w weekend 30 zł za godzinę w zamkniętej sali to za drogo jak na godzinę zabawy.",
-  "objection": "Płacę 30 zł za godzinę, żeby dziecko siedziało w hali z kulkami, zamiast biegać na świeżym powietrzu. Sala zabaw to dla mnie ostateczność, na deszczowy dzień.",
-  "would_change_my_mind": "Długi okres deszczu albo zimy, kiedy na dworze nie da się wytrzymać. Wtedy może wpadłabym raz, zwłaszcza za te 15 zł na otwarcie.",
-  "price_too_cheap": 8,
-  "price_cheap": 15,
-  "price_expensive": 22,
-  "price_too_expensive": 30
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Last year at home was cramped and forgettable, so I want a place with its own room, a theme and a proper workshop – EXTRA with eksperymenty or LEGO could give my kid and the class the wow I'm after. With 14-16 classmates it will cost me 1500-2000 zł, which I can afford if it actually looks good in photos.",
+  "objection": "The animator only comes in the pricier package and every extra child costs 70 zł, so the 'from 550 zł' price is not the real price. A 7-8 year old might also find a sala zabaw too babyish, and banning my own cakes for adults feels like squeezing me.",
+  "would_change_my_mind": "If photos from real parties for 7-8 year olds looked basic, or if my child said it's a place for little kids, I would not book.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 800,
+  "price_too_expensive": 1200
 }

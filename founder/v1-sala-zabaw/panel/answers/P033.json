@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Na co dzień wolę plac zabaw i las, sala to dla mnie ostateczność. Ale w listopadzie przy deszczu i ciemno o 16 jedno wyjście z otwarcia za 15 zł pewnie zrobię, żeby sprawdzić, czy jest tam czysto.",
+  "objection": "Sala zabaw to wylęgarnia infekcji, basen z kulkami szczególnie. Codzienna dezynfekcja brzmi dobrze, ale po trzech zasmarkanych dzieciach w ciągu dnia to niewiele znaczy.",
+  "would_change_my_mind": "Gdyby było widać, że kulki i maty są myte częściej niż raz dziennie i chore dzieci są odsyłane do domu, zacząłbym przychodzić regularnie w złą pogodę, nie tylko raz.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 28,
+  "price_too_expensive": 38
+}

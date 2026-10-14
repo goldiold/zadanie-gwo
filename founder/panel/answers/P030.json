@@ -2,12 +2,12 @@
   "id": "P030",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "We already have our big play centre in Gdańsk and we go there while shopping at Bałtycka or Matarnia, so it's one trip for everything. A small room with a slide and a ball pit for 25-30 zł an hour feels like less fun for my 4-year-old than the big hall, and not much cheaper.",
-  "objection": "Za drogo jak na godzinę zabawy w małej sali, która ma mniej atrakcji niż duże centrum, do którego i tak jeżdżę przy okazji zakupów.",
-  "would_change_my_mind": "Stała cena 15-20 zł za godzinę, a nie tylko w promocji na otwarcie. Wtedy w deszczowy dzień po pracy wpadłbym na godzinę blisko domu zamiast jechać do Gdańska.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 25,
-  "price_too_expensive": 32
+  "reason_code": "need",
+  "reason": "To pierwsze urodziny, przyjdzie głównie rodzina, dorośli i dwoje-troje maluchów. Roczne dziecko nie potrzebuje sali zabaw ani animatora, a ja płaciłbym 550 zł plus ciasto na miejscu plus dopłatę za obsługę dorosłych. Za te pieniądze wolę salkę w restauracji, gdzie ktoś po prostu ogarnie wszystko za mnie.",
+  "objection": "Nie mogę przynieść ciasta od babci dla dorosłych, muszę kupić ich ciasto za 170-190 zł, a przy kilkunastu dorosłych dochodzi jeszcze dopłata za obsługę kawiarni. Cały pakiet jest pomyślany pod starsze dzieci, a nie pod roczek z rodziną.",
+  "would_change_my_mind": "Osobny pakiet na roczek dla małej grupy rodzinnej: kawa i ciasto dla dorosłych w cenie albo zgoda na własne ciasto, bez dopłat za dorosłych, w jednej cenie.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 650,
+  "price_too_expensive": 900
 }

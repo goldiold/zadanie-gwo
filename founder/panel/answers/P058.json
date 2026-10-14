@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mój ośmiolatek chce zaprosić całą klasę, ok. 15 dzieci, a sala jest głównie dla młodszych dzieci. Policzyłem w tabelce: FUN 750 zł + 7 dzieci po 60 zł + drugi animator 150 zł daje ok. 1320 zł, a do tego ciasto dla dorosłych z ich kawiarni, bo własnego nie wolno przynieść. Za podobne pieniądze duża sala w Gdańsku ma więcej atrakcji dla starszych dzieci.",
+  "objection": "Za dopłaty za każde dziecko, za drugiego animatora i za zakaz własnego ciasta płacę prawie dwa razy tyle co w cenie pakietu, a nie mam pewności, czy ośmiolatkom nie będzie tam nudno.",
+  "would_change_my_mind": "Pakiet dla starszych dzieci (np. LEGO albo eksperymenty) w cenie ok. 1000 zł za 15 dzieci, z animatorem i bez dopłat za dzieci powyżej 8.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 600,
+  "price_too_expensive": 800
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "We already have our big play centre in Gdańsk and we go there while shopping at Bałtycka or Matarnia, so it's one trip for everything. A small room with a slide and a ball pit for 25-30 zł an hour feels like less fun for my 4-year-old than the big hall, and not much cheaper.",
+  "objection": "Za drogo jak na godzinę zabawy w małej sali, która ma mniej atrakcji niż duże centrum, do którego i tak jeżdżę przy okazji zakupów.",
+  "would_change_my_mind": "Stała cena 15-20 zł za godzinę, a nie tylko w promocji na otwarcie. Wtedy w deszczowy dzień po pracy wpadłbym na godzinę blisko domu zamiast jechać do Gdańska.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 25,
+  "price_too_expensive": 32
+}

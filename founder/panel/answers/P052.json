@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Jak zapraszam grupę z przedszkola, to jest 12-15 dzieci, więc MINI robi się z 550 zł ponad 750 zł, a jeszcze kawa dla dorosłych płatna i ciasto trzeba kupić u nich za 170-190 zł. Za te pieniądze zrobię urodziny w przedszkolu albo w domu z pizzą i tortem za ułamek ceny.",
+  "objection": "Cena rośnie z każdym dzieckiem i każdym dodatkiem, a zakaz przyniesienia własnego ciasta dla dorosłych wygląda jak wyciąganie pieniędzy - w MINI nie ma nawet animatora ani darmowej kawy.",
+  "would_change_my_mind": "Pakiet na całą grupę przedszkolną (ok. 15 dzieci) za około 500 zł w dzień powszedni z kawą dla rodziców w cenie i możliwością przyniesienia własnego ciasta.",
+  "price_too_cheap": 200,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 650
+}

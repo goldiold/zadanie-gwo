@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Chcę zaprosić całą grupę z przedszkola, czyli jakieś 20 dzieci, a wtedy nawet MINI to 550 + 12 x 40 = ponad 1000 zł, do tego kawa dla rodziców płatna i zakaz własnych ciast. Urodziny w przedszkolu albo w domu z pizzą wyjdą mnie kilka razy taniej.",
+  "objection": "Cena bazowa jest tylko na 8 dzieci, a potem wszystko się dolicza: każde dziecko, kawa, obsługa dorosłych, ciasto z ich menu za 170 zł. Nie wiem, ile naprawdę zapłacę, dopóki nie policzę wszystkiego.",
+  "would_change_my_mind": "Pakiet dla całej grupy przedszkolnej (do 20 dzieci) za około 700 zł z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta.",
+  "price_too_cheap": 200,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 650
+}

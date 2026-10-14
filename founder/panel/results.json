@@ -1,0 +1,233 @@
+{
+ "business": "Dziupla - sala zabaw i kawiarnia w Baninie (ul. Przemysłowa 2): oferta urodzinowa 2026",
+ "seed": 80570,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 35,
+ "passes": 65,
+ "buy_rate": 0.35,
+ "by_segment": [
+  [
+   "Rodzic przedszkolaka 4-6 (urodziny dla grupy z przedszkola)",
+   50,
+   0.44
+  ],
+  [
+   "Rodzic dziecka 7-8 (koledzy z klasy, dziecko ma własne zdanie)",
+   25,
+   0.28
+  ],
+  [
+   "Rodzic malucha 1-3 (pierwsze urodziny w sali, mała grupa rodzinna)",
+   25,
+   0.24
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Chce mieć święty spokój",
+   22,
+   0.8636363636363636
+  ],
+  [
+   "Szuka efektu wow",
+   13,
+   0.6153846153846154
+  ],
+  [
+   "Czyta opinie i pyta w grupach",
+   15,
+   0.4666666666666667
+  ],
+  [
+   "Porównuje pakiety i liczy",
+   20,
+   0.05
+  ],
+  [
+   "Wierny dużemu centrum zabaw",
+   15,
+   0.0
+  ],
+  [
+   "Budżetowy",
+   15,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $137,000",
+   33,
+   0.42424242424242425
+  ],
+  [
+   "$137,000 to $180,000",
+   33,
+   0.3333333333333333
+  ],
+  [
+   "$180,000 and up",
+   34,
+   0.29411764705882354
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   36,
+   [
+    "Na roczek przyjdzie może 3-4 maluchów i kilkanaście dorosłych z rodziny, więc płacę 550 zł za 8 dzieci, których nie będzie, a do tego dopłata za obsługę kawiarni i obowiązkowe ciasta po 170-190 zł, bo babcinego przynieść nie wolno. W mojej tabelce wychodzi drożej niż obiad w restauracji z salką, a roczniak i tak nie skorzysta z animatora ani z 30 dni wejść.",
+    "To pierwsze urodziny, maluch i tak nic nie zapamięta, a przyjdzie głównie rodzina. 550 zł za salę plus zamawianie ciasta na miejscu to dla mnie za dużo, skoro w domu zrobimy to prawie za darmo."
+   ],
+   [
+    "P002",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   14,
+   [
+    "Urodziny dla całej grupy z przedszkola robię w dużym centrum zabaw w Gdańsku, bo tam jest więcej atrakcji i dzieci się nie nudzą. Mała sala na Baninie jest blisko, ale nie widzę, czym zajmie 15-20 dzieci przez dwie godziny lepiej niż duża sala.",
+    "Na urodziny dla całej grupy z przedszkola i tak pojadę do dużego centrum zabaw w Gdańsku albo w galerii, tam dzieci mają więcej atrakcji niż w jednej sali z kawiarnią. Pakiet jest do 8 dzieci, a mnie przyjdzie 15-20, więc z dopłatą za każde dziecko, drugim animatorem i ciastem dla dorosłych robi się z 750 zł grubo ponad 1500 zł."
+   ],
+   [
+    "P001",
+    "P011"
+   ]
+  ],
+  [
+   "need",
+   9,
+   [
+    "To pierwsze urodziny, przyjdą głównie dziadkowie i ciocie, a roczniak i tak nie skorzysta z animatora ani sali zabaw. Policzyłem: MINI 550 zł plus obowiązkowe ciasto na miejscu za 170-190 zł to ponad 700 zł, a w domu zrobię to za połowę.",
+    "Moje dziecko ma 7-8 lat i samo mówi, gdzie chce urodziny, a sala w Banino brzmi jak miejsce dla maluchów; duża sala w Gdańsku ma trampoliny i więcej atrakcji dla starszych dzieci, a ja i tak jestem w stanie zapłacić za EXTRA. Do tego zakaz przynoszenia własnego ciasta oznacza, że babcia nie może przynieść swojego, a o to w rodzinie byłaby awantura."
+   ],
+   [
+    "P012",
+    "P018"
+   ]
+  ],
+  [
+   "quality",
+   6,
+   [
+    "Mój syn ma prawie 8 lat i chce czegoś, o czym klasa będzie gadać, a sala zabaw z dmuchańcem i balonami brzmi jak impreza dla przedszkolaków. Przy 20+ dzieciach i tak wyjdzie mi ok. 1800-2000 zł, więc za te pieniądze wolę dużą salę w Gdańsku z trampolinami, ścianką czy laser tagiem.",
+    "Chcę, żeby to były urodziny, o których cała grupa z przedszkola będzie mówić, a sala zabaw z kawiarnią w Baninie na razie nie brzmi dla mnie jak efekt wow w porównaniu z dużą salą w Gdańsku, gdzie właśnie byliśmy. Do tego przy 18-20 dzieciach z pakietem EXTRA, drugim animatorem i warsztatami robi się prawie 2000 zł, a nawet ciasta dla dorosłych nie mogę przynieść własnego."
+   ],
+   [
+    "P008",
+    "P053"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "convenience",
+   23,
+   [
+    "Dokładnie tego szukam: przychodzę, animator ogarnia dzieci, dekoracje i sprzątanie nie są na mojej głowie, a 4,9 z 173 opinii to dla mnie wystarczający dowód. Przy całej klasie wyjdzie pewnie EXTRA z dopłatami za dzieci, ok. 1300-1500 zł, ale za święty spokój zapłacę.",
+    "Sala na wyłączność, animator, dekoracje i nikt nie sprząta u mnie w domu, a 4,9 przy 173 opiniach to dla mnie wystarczy. Wezmę FUN albo EXTRA i mam spokój."
+   ],
+   [
+    "P006",
+    "P007"
+   ]
+  ],
+  [
+   "need",
+   8,
+   [
+    "Last year we did the party at home and it was cramped, and a place in Banino with 4.9 from 173 reviews saves me driving the whole preschool group to Gdańsk. For 4-6 year olds I'd take FUN, because without an animator I'd end up running the games myself anyway.",
+    "Z całą grupą z przedszkola, 22 dzieci, w domu tego nie zrobię, a EXTRA z warsztatami, animatorem, malowaniem twarzy i balonami da efekt wow i zdjęcia na Instagram. Ocena 4,9 przy 173 opiniach daje mi spokój, że to nie wpadka."
+   ],
+   [
+    "P003",
+    "P005"
+   ]
+  ],
+  [
+   "quality",
+   4,
+   [
+    "Sala na wyłączność blisko domu w Baninie, 4,9 z 173 opinii i pakiet EXTRA z animatorem, malowaniem twarzy i warsztatami daje ten efekt wow, na którym mi zależy. Biorę EXTRA z warsztatami, choć wiem, że przy całej grupie wyjdzie grubo ponad 2000 zł.",
+    "Córka kończy 8 lat i chce zaprosić całą klasę, a w domu nie zrobię eksperymentów ani motywu, który dobrze wyjdzie na zdjęciach. MINI z eksperymentami albo EXTRA z warsztatami i malowaniem twarzy daje efekt, którego sama nie ogarnę, a 4,9 przy 173 opiniach mnie uspokaja."
+   ],
+   [
+    "P016",
+    "P034"
+   ]
+  ]
+ ],
+ "flip": [
+  "Gdyby znajoma mama z przedszkola zrobiła tam urodziny dla całej grupy i dzieci były zachwycone, a ja dostałabym jasną cenę za 18 dzieci i wolną sobotę.",
+  "Mały pakiet na roczek dla 4-5 maluchów i do 15 dorosłych w jednej cenie około 400-450 zł w weekend, z możliwością przyniesienia domowego ciasta.",
+  "Tani pakiet dla maluchów do ok. 300 zł z wyłącznością sali i zgodą na własne ciasto babci.",
+  "Konkretny, efektowny pakiet dla 7-8 latków (np. eksperymenty albo LEGO z prawdziwym prowadzącym) liczony od razu na całą klasę w jednej cenie, ze zdjęciami pokazującymi starsze dzieci w akcji.",
+  "Pakiet dla całej klasy (ok. 20 dzieci) w stałej cenie poniżej 700 zł z czymś, co naprawdę zajmie starsze dzieci, np. warsztatami w cenie.",
+  "Jedna cena za całą grupę przedszkolną, np. do 20 dzieci z animatorem i kawą dla rodziców, bez ukrytych dopłat, i możliwość przyniesienia własnego ciasta.",
+  "Osobny pakiet dla roczniaka z rodziną, ok. 400 zł w cenie z kawą i możliwością przyniesienia własnego ciasta dla dorosłych.",
+  "Pakiet z animatorem w cenie około 500 zł za całą grupę przedszkolną i zgoda na własne ciasto od babci.",
+  "Pakiet dla całej grupy przedszkolnej (około 20 dzieci) za stałą cenę do około 700 zł z możliwością przyniesienia własnego ciasta.",
+  "Mały pakiet na roczek na weekend, np. dla 4-5 dzieci za około 400 zł, z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta.",
+  "Pakiet dla starszych dzieci z animatorem i konkretną atrakcją (np. LEGO albo eksperymenty) w cenie podstawowej, liczony od razu na 12-15 dzieci, za mniej niż w dużej sali w Gdańsku – i gdyby syn sam powiedział, że chce tam iść, bo był u kolegi.",
+  "Gdyby dziecko samo poprosiło o Dziuplę, bo koledzy byli tu na fajnych urodzinach dla starszaków (np. LEGO albo eksperymenty), i gdyby pozwolili przynieść ciasto babci.",
+  "A flat price for the whole group of about 15 children with no hidden add-ons, around 600 zł, and permission to bring grandma's cake for the adults.",
+  "Mały pakiet dla maluchów 1-3 lat z kawą dla dorosłych w cenie i zgodą na własne ciasto babci, za około 400-450 zł w weekend.",
+  "Pakiet dla maluchów 1-3 dla małej rodzinnej grupy (np. 4 dzieci, kilkunastu dorosłych) za około 400 zł z kawą dla dorosłych i możliwością przyniesienia własnego ciasta.",
+  "Pakiet dla całej grupy przedszkolnej (do 20 dzieci) z animatorem w okolicach 700-800 zł, na przykład w dzień powszedni po południu.",
+  "Animator w podstawowym pakiecie i pakiet liczony na całą grupę przedszkolną (np. do 15 dzieci) w jednej cenie ok. 900-1000 zł.",
+  "Pakiet weekendowy z ceną za całą grupę ok. 15-20 dzieci w okolicy 700-800 zł i możliwość przyniesienia własnego ciasta.",
+  "Osobny pakiet na roczek dla małej grupy rodzinnej: kawa i ciasto dla dorosłych w cenie albo zgoda na własne ciasto, bez dopłat za dorosłych, w jednej cenie.",
+  "Zgoda na własne ciasto dla dorosłych (choćby za małą opłatą za talerzyki) i cena pakietu liczona dla 15 dzieci zamiast 8.",
+  "Pakiet z animatorem dla całej grupy przedszkolnej (ok. 15-20 dzieci) w cenie do 700 zł, np. w tygodniu po południu.",
+  "Pakiet przedszkolny z ceną za całość dla 20 dzieci, z animatorami i kawą dla rodziców w środku, bez ukrytych dopłat, w okolicach 1400-1500 zł, albo zgoda na własne ciasto.",
+  "Pakiet dla całej grupy 20 dzieci w cenie około 700 zł bez animatora, z możliwością przyniesienia własnego ciasta.",
+  "Osobny pakiet na roczek dla małej rodzinnej grupy: mniej dzieci, niższa cena, kawa dla dorosłych w cenie i zgoda na własne ciasto.",
+  "Pakiet dla roczniaków na pon-pt lub weekend za ok. 400 zł z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta od babci.",
+  "Jeden pakiet 'cała grupa przedszkolna' z ceną za ok. 20 dzieci podaną z góry, bez dopłat za animatora i obsługę kawiarni, albo zgoda na własne ciasto dla dorosłych.",
+  "Pakiet z animatorem w cenie dla ok. 15-20 dzieci za stałą kwotę około 1100-1200 zł, bez dopłat za każde dziecko.",
+  "Jedna jasna cena za całą grupę do 20 dzieci z animatorem i kawą dla dorosłych, w okolicach 1200 zł, albo zgoda na własne ciasto.",
+  "Gdyby syn sam poprosił, bo był tam na fajnych urodzinach kolegi, np. z warsztatami LEGO lub eksperymentami, i całość dla klasy wyszła taniej niż w Gdańsku.",
+  "Jeden pakiet na całą grupę przedszkolną (np. do 18 dzieci) w jednej cenie razem z kawą dla dorosłych i z możliwością przyniesienia własnego ciasta.",
+  "Gdyby pakiet z animatorem dla całej grupy 15+ dzieci kosztował łącznie poniżej 900 zł bez ukrytych dopłat i można było przynieść własne ciasto.",
+  "Osobny pakiet na roczek: mała grupa dzieci, 10-15 dorosłych w cenie, możliwość przyniesienia własnego ciasta, łącznie poniżej 600 zł.",
+  "Pakiet z ceną dla całej grupy przedszkolnej (do 15 dzieci) w jednej kwocie, z możliwością przyniesienia własnego ciasta dla dorosłych.",
+  "Pakiet na całą grupę przedszkolną (ok. 15 dzieci) za około 500 zł w dzień powszedni z kawą dla rodziców w cenie i możliwością przyniesienia własnego ciasta.",
+  "Zdjęcia albo filmik z prawdziwych urodzin tematycznych z warsztatami (np. eksperymenty czy LEGO) dla grupy 15-20 przedszkolaków, pokazujące wystrój i salę, plus jasna cena całości dla takiej grupy.",
+  "Osobny pakiet dla maluchów 1-3 lat z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta, za łącznie ok. 600 zł.",
+  "Pakiet dla maluchów w weekend za około 300–350 zł, z możliwością przyniesienia własnego ciasta i kawą dla dorosłych w cenie.",
+  "Pakiet dla starszych dzieci (np. LEGO albo eksperymenty) w cenie ok. 1000 zł za 15 dzieci, z animatorem i bez dopłat za dzieci powyżej 8.",
+  "Pakiet klasowy na 20 dzieci z animatorem w jednej cenie około 1100-1200 zł, bez ukrytych dopłat i z możliwością przyniesienia własnego ciasta.",
+  "Tani pakiet dla maluchów 1-3 w weekend, około 300-350 zł za kameralną grupę, z możliwością przyniesienia własnego ciasta dla dorosłych.",
+  "Gdyby animator i atrakcje dla starszych dzieci (np. warsztaty eksperymentów albo LEGO) były w podstawowej cenie i można było przynieść własne ciasto babci.",
+  "Gdyby kilka mam z grupy 'Mamy z Banina' napisało, że robiły tam urodziny dla całej grupy przedszkolnej i dzieci się nie nudziły, a cena za 18 dzieci z animatorem była bliżej 1100–1200 zł.",
+  "Pakiet liczony od razu na 20 dzieci w cenie zbliżonej do dużych sal i zgoda na ciasto od babci.",
+  "Osobny pakiet na roczek dla małej grupy rodzinnej: sesja zdjęciowa albo efektowna ścianka z dekoracją, kawa dla dorosłych w cenie i zgoda na domowe ciasto od babci.",
+  "Mniejszy pakiet na roczek (do 4 dzieci, ok. 350-400 zł) z możliwością przyniesienia własnego ciasta i kawą dla dorosłych w cenie.",
+  "Jedna pełna cena za pakiet dla 20 dzieci z animatorem, bez dopłat za każdy drobiazg, wyraźnie niższa niż w dużym centrum zabaw w Gdańsku.",
+  "Gdyby pakiet na całą grupę przedszkolną (ok. 15 dzieci) zamykał się w ok. 500 zł i można było przynieść własne ciasto od babci.",
+  "Pozwolenie na własne ciasto babci i pakiet dla maluchów 1-3 lat w cenie około 350 zł w dzień powszedni.",
+  "Zdjęcia albo krótkie wideo z prawdziwych urodzin z eksperymentami lub LEGO dla 7-8-latków w tej sali, pokazujące, że to porządne warsztaty z prowadzącym i dekoracją, a nie zabawa dla maluchów.",
+  "Pakiet pod starsze dzieci (np. LEGO, eksperymenty albo warsztaty jako główna atrakcja z animatorem w EXTRA) pokazany na zdjęciach z urodzin 7-8-latków, plus zgoda na babcine ciasto.",
+  "Pakiet na całą klasę, około 20-22 dzieci, w jednej cenie poniżej 1300 zł z animatorem i atrakcjami dla starszych dzieci, jak eksperymenty albo LEGO, w cenie.",
+  "Pakiet na 20 dzieci w jednej cenie (np. FUN z animatorem za ok. 1100-1200 zł) i możliwość przyniesienia własnego ciasta dla dorosłych.",
+  "Pakiet dla całej grupy przedszkolnej (do 20 dzieci) za około 700 zł z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta.",
+  "Pakiet z jedną ceną na 20 dzieci (np. do 1300 zł z animatorem i kawą dla rodziców) albo zgoda na własne ciasto dla dorosłych.",
+  "Pakiet weekendowy dla całej grupy przedszkolnej (ok. 20 dzieci) w cenie do 700 zł, z możliwością przyniesienia własnego ciasta.",
+  "Mały pakiet rodzinny na roczek, do 4 dzieci, z kawą dla dorosłych w cenie i możliwością przyniesienia własnego ciasta, w okolicach 500 zł za całość w weekend.",
+  "Gdyby koleżanka z przedszkola zrobiła tam urodziny i dzieci były zachwycone, a pakiet z animatorem dla 15 dzieci kosztował w sumie mniej niż w dużym centrum w Gdańsku.",
+  "Gdyby syn sam poprosił o Dziuplę, bo był tam na urodzinach kolegi i mu się podobało, albo gdyby był pakiet dla całej klasy (ok. 20 dzieci) w jednej, jasnej cenie z animatorem i kawą dla dorosłych.",
+  "Pakiet z animatorem dla całej grupy przedszkolnej (ok. 15 dzieci) w jednej cenie około 700 zł, bez zakazu własnego ciasta.",
+  "Gdyby pozwolili przynieść ciasto babci i mieli atrakcję dla starszych dzieci, której nie ma w dużym centrum, np. warsztaty eksperymentów w cenie, plus wolny termin w sobotę.",
+  "Pakiet 'roczek rodzinny' z kawą i herbatą dla dorosłych w cenie i zgodą na własne ciasto, za mniej więcej 600 zł.",
+  "Pakiet z animatorem dla 15 dzieci za około 700 zł w sumie, bez zakazu własnego ciasta.",
+  "Gdyby można było przynieść domowe ciasto babci dla dorosłych i był tańszy pakiet rodzinny pod roczek dla maluchów.",
+  "Zdjęcia albo filmik z prawdziwych urodzin dla starszych dzieci, np. LEGO albo eksperymentów, pokazujące, że ośmiolatki świetnie się tam bawią, i jedna cena za całą klasę z kawą dla dorosłych w cenie.",
+  "Pakiet z animatorem dla 15 dzieci w jednej, pełnej cenie (ok. 1000 zł) albo zgoda na własne ciasto dla dorosłych."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

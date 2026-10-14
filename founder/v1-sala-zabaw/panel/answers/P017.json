@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "convenience",
+  "reason": "Blisko, w Baninie, z parkingiem i kawą przy stoliku z widokiem na salę, a 650 zł za zamkniętą salę na 2 godziny dla 10 dzieci to mniej niż płaciłam w Gdańsku. Pójdę w weekend z promocją za 15 zł sprawdzić, jak jest, i jeśli będzie czysto, zarezerwuję urodziny.",
+  "objection": "Nie wiem, co jest w tych 650 zł: czy jest animator, poczęstunek, tort, sprzątanie po imprezie, czy tylko sama sala. Jak za wszystko trzeba dopłacić osobno, to wyjdzie drożej niż w dużej sali z pełnym pakietem.",
+  "would_change_my_mind": "Gdyby się okazało, że w 650 zł jest tylko sala bez animatora i jedzenia, a za dodatkowe dzieci ponad 10 trzeba sporo dopłacać, wybrałabym salę z gotowym pakietem.",
+  "price_too_cheap": 350,
+  "price_cheap": 550,
+  "price_expensive": 850,
+  "price_too_expensive": 1100
+}

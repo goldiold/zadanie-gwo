@@ -1,13 +1,13 @@
 {
   "id": "P050",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Za 15 zł na otwarcie pójdę raz z młodszym w deszczowy dzień, żeby zobaczyć, czy strefa 0-2 jest naprawdę osobna i czysta. Po promocji 25 zł za godzinę to dla mnie za dużo, skoro plac zabaw na osiedlu mam za darmo.",
-  "objection": "25 zł za godzinę dla malucha, który i tak połowę czasu siedzi mi na kolanach, to drogo; przy dwójce dzieci i kawie robi się 40-50 zł za jedno wyjście.",
-  "would_change_my_mind": "Tańszy wstęp dla 0-2 w tygodniu przed południem, np. 15 zł za godzinę na stałe, albo karnet wyraźnie poniżej 20 zł za godzinę.",
-  "price_too_cheap": 8,
-  "price_cheap": 15,
-  "price_expensive": 22,
-  "price_too_expensive": 30
+  "reason": "Na urodziny dla grupy z przedszkola przyjdzie z 15 dzieci, więc z FUN robi się ponad 1100 zł, a do tego nie mogę przynieść własnego ciasta dla dorosłych i muszę dopłacić 170-190 zł za ich ciasto. Wolę najpierw popytać na 'Mamy z Banina', gdzie jest taniej bez tylu dopłat.",
+  "objection": "Nie mogę przynieść własnego ciasta dla dorosłych, a każda drobna rzecz to dopłata: kolejne dzieci, drugi animator, obsługa dorosłych. Cena z cennika nijak się ma do tego, co zapłacę na końcu.",
+  "would_change_my_mind": "Pakiet z ceną dla całej grupy przedszkolnej (do 15 dzieci) w jednej kwocie, z możliwością przyniesienia własnego ciasta dla dorosłych.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 900
 }

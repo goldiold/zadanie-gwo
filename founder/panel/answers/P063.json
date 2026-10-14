@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Właśnie byłam na urodzinach w dużej sali w Gdańsku i dzieci miały tam dużo więcej do roboty. Na całą grupę z przedszkola, czyli jakieś 18 dzieci, w Dziupli i tak wyszłoby mi około 1500 zł, a za te pieniądze mogę pojechać do Gdańska, gdzie jest więcej atrakcji.",
+  "objection": "Czy mała sala w Baninie wystarczy dla 18 rozbrykanych pięciolatków na dwie godziny? Do tego wkurza mnie, że nie mogę przynieść własnego ciasta dla dorosłych i muszę dopłacać 170–190 zł za ich ciasto.",
+  "would_change_my_mind": "Gdyby kilka mam z grupy 'Mamy z Banina' napisało, że robiły tam urodziny dla całej grupy przedszkolnej i dzieci się nie nudziły, a cena za 18 dzieci z animatorem była bliżej 1100–1200 zł.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 850
+}

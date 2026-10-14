@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Urodziny robimy w dużym centrum zabaw w Gdańsku albo w galerii, tam jest więcej atrakcji, a syn chce zaprosić całą klasę. Tu bazowa cena jest za 8 dzieci, więc przy 20+ dzieciach z dopłatami robi się ponad tysiąc złotych za mniejszą salę.",
+  "objection": "Do 8 dzieci to za mało, cała klasa to 20+, a każde kolejne dziecko płatne osobno plus drugi animator. Do tego babcia zawsze piecze ciasto, a tu nie wolno przynieść własnego i mam kupować ciasto za 170-190 zł.",
+  "would_change_my_mind": "Pakiet liczony od razu na 20 dzieci w cenie zbliżonej do dużych sal i zgoda na ciasto od babci.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 600,
+  "price_too_expensive": 800
+}

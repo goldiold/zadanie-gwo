@@ -1,0 +1,13 @@
+{
+  "id": "P073",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Wzięłabym EXTRA: animator, dekoracje, kawa dla dorosłych bez limitu i mam spokój, a do tego blisko domu, nie trzeba jechać do Gdańska. Ocena 4,9 przy 173 opiniach daje mi pewność, że nie będzie wpadki.",
+  "objection": "Nie mogę przynieść własnego ciasta dla dorosłych, więc muszę dopłacić 170–190 zł za ich ciasto, a do tego dopłaty za każde dziecko ponad 8 i za obsługę dorosłych. Przy całej klasie z 850 zł robi się spokojnie 1500 zł, a mój siedmiolatek może jeszcze stwierdzić, że chce do tej dużej sali, gdzie byliśmy ostatnio.",
+  "would_change_my_mind": "Gdyby po zsumowaniu dopłat za całą klasę i ciasto rachunek wyszedł wyraźnie powyżej 1600 zł albo gdyby dziecko uparło się na większą salę w Gdańsku, zrezygnowałabym.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 800,
+  "price_too_expensive": 1100
+}

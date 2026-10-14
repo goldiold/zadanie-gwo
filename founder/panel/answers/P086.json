@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Na pierwsze urodziny i tak będzie głównie rodzina i kilkoro maluchów, więc limit 8 dzieci mi akurat wystarczy, a po zeszłorocznym ścisku w domu chętnie zapłacę, żeby ktoś inny ogarnął salę, dekoracje i sprzątanie. Wziąłbym/wzięłabym raczej EXTRA, żeby dorośli mieli kawę bez limitu i nic nie musieć liczyć.",
+  "objection": "Na roczku to dorośli są głównymi gośćmi, a ja nie mogę przynieść własnego ciasta i od 10 dorosłych płacę za obsługę kawiarni - boję się, że z dopłatami i ciastami na miejscu z 850 zł zrobi się 1300+ i animator dla rocznego dziecka to i tak w sumie zbędny wydatek.",
+  "would_change_my_mind": "Gdyby po zsumowaniu dopłat za dorosłych i obowiązkowych ciast wyszło grubo ponad 1300 zł albo gdyby sala nie była przystosowana do raczkujących maluchów, zrobił(a)bym obiad w restauracji zamiast tego.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 700,
+  "price_too_expensive": 1000
+}

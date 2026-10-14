@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na pierwsze czy drugie urodziny malucha przychodzi głównie rodzina i dwoje-troje dzieci, więc 550 zł za salę plus zakaz własnych ciast dla dorosłych to dla mnie za dużo – w domu zrobię to za ułamek tej kwoty. Byłam niedawno na takich urodzinach w dużej sali i dla takiego malucha to i tak bardziej impreza dla dorosłych.",
+  "objection": "Płacę głównie za salę i animatora, z których roczne dziecko i tak nie skorzysta, a dorośli – czyli większość moich gości – muszą kupować ciasto na miejscu po 170–190 zł, a kawę dostają bez limitu dopiero w najdroższym pakiecie.",
+  "would_change_my_mind": "Pakiet dla maluchów w weekend za około 300–350 zł, z możliwością przyniesienia własnego ciasta i kawą dla dorosłych w cenie.",
+  "price_too_cheap": 150,
+  "price_cheap": 280,
+  "price_expensive": 420,
+  "price_too_expensive": 550
+}

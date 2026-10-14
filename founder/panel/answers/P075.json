@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Robiliśmy już urodziny w dużej sali w Gdańsku i tam dziecko miało więcej atrakcji, a mój siedmio-ośmiolatek ma swoje zdanie i chce dużego miejsca. Pakiety są liczone do 8 dzieci, a ja zapraszam całą grupę, 20+ osób, więc z dopłatami za każde dziecko, drugiego animatora i obsługę dorosłych cena szybko rośnie powyżej 1500-1700 zł.",
+  "objection": "Do 8 dzieci to za mało, cała grupa to 20+, a w małej sali przy kawiarni dla tylu starszych dzieci może być ciasno i za mało do roboty. Do tego nie mogę przynieść własnych ciast dla dorosłych.",
+  "would_change_my_mind": "Pakiet na całą klasę, około 20-22 dzieci, w jednej cenie poniżej 1300 zł z animatorem i atrakcjami dla starszych dzieci, jak eksperymenty albo LEGO, w cenie.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 700,
+  "price_too_expensive": 950
+}

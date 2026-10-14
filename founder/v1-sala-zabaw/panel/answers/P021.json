@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "need",
+  "reason": "Jest październik, leje, a ja nie mam pomysłu co robić z młodym po przedszkolu czy w wolne przedpołudnie — sala blisko z parkingiem i kawą to dokładnie to, czego szukam. Za 15 zł na otwarcie spróbuję bez wahania, potem zobaczymy.",
+  "objection": "25 zł za godzinę to sporo jak na samą zabawę, a z dojazdem i przekąską robi się z tego 40 zł za wyjście; godzina szybko mija, a dłużej to już robi się drogo.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 10,
+  "price_cheap": 15,
+  "price_expensive": 25,
+  "price_too_expensive": 35
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Chcę, żeby ktoś to wszystko ogarnął za mnie: sala na wyłączność, dekoracje, poczęstunek i animator, a do tego blisko, w Baninie, i 4,9 na Google. Wezmę EXTRA albo FUN z drugim animatorem i zapłacę, byle nic nie robić samej.",
+  "objection": "Animator dopiero w droższym pakiecie, a przy 22 dzieciach dopłaty za każde dziecko, drugiego animatora i obsługę kawiarni robią z 850 zł prawie 2000 zł, plus ciasto dla dorosłych muszę kupić u nich. Nigdzie też nie widzę, kto sprząta po imprezie.",
+  "would_change_my_mind": "Gdyby się okazało, że po dopłatach za całą grupę wychodzi grubo ponad 2000 zł albo że sprzątanie jest po mojej stronie, poszukałabym miejsca z jedną ceną all-inclusive.",
+  "price_too_cheap": 250,
+  "price_cheap": 450,
+  "price_expensive": 800,
+  "price_too_expensive": 1200
+}

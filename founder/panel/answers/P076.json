@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Na urodziny dla grupy z przedszkola chcę, żeby ktoś wszystko ogarnął: sala, animator, dekoracje, a ja tylko przyjeżdżam z tortem. Wzięłabym EXTRA, bo kawa dla dorosłych bez limitu i malowanie twarzy to dokładnie ten święty spokój, za który płacę; ciasto babci zostawię na rodzinny obiad w domu.",
+  "objection": "Nie mogę przynieść ciasta od babci, a 170-190 zł za ciasto na miejscu to zdzierstwo. Do tego przy całej grupie przedszkolnej, czyli 15-20 dzieci, dopłaty za każde dziecko, drugiego animatora i obsługę dorosłych robią się z 850 zł ponad 2000 zł.",
+  "would_change_my_mind": "Gdyby po zsumowaniu dopłat dla 18 dzieci wyszło wyraźnie powyżej 2200 zł albo gdyby wolne terminy w weekendy były dopiero za dwa miesiące, poszukałabym innego miejsca.",
+  "price_too_cheap": 350,
+  "price_cheap": 500,
+  "price_expensive": 850,
+  "price_too_expensive": 1200
+}

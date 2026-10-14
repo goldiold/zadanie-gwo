@@ -1,13 +1,13 @@
 {
   "id": "P034",
   "buys": true,
-  "purchases_first_month": 5,
-  "reason_code": "need",
-  "reason": "Po odwiezieniu starszego do przedszkola w Baninie zostaję z maluchem i w szare przedpołudnie nie mam gdzie z nim pójść, a tu jest blisko, z parkingiem i osobną miękką strefą 0–2. Za 25 zł (na otwarcie 15 zł) spróbuję, a jak się sprawdzi, wezmę karnet.",
-  "objection": "Czy ta strefa 0–2 jest naprawdę oddzielona fizycznie, czy to tylko kawałek maty obok zjeżdżalni, po której zaraz przybiegnie rozpędzony czterolatek. Jak nie będzie realnej bariery i pilnowania, przestanę przychodzić.",
-  "would_change_my_mind": "Gdyby na miejscu okazało się, że strefa dla niemowląt nie jest odgrodzona i starsze dzieci do niej wbiegają.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "purchases_first_month": 1,
+  "reason_code": "quality",
+  "reason": "Córka kończy 8 lat i chce zaprosić całą klasę, a w domu nie zrobię eksperymentów ani motywu, który dobrze wyjdzie na zdjęciach. MINI z eksperymentami albo EXTRA z warsztatami i malowaniem twarzy daje efekt, którego sama nie ogarnę, a 4,9 przy 173 opiniach mnie uspokaja.",
+  "objection": "Przy 15 dzieciach z dopłatami, drugim animatorem i kawiarnią dla dorosłych robi się z tego grubo ponad 1500 zł, a do tego nie mogę przynieść ciasta babci i mam płacić 170-190 zł za ciasto z kawiarni. Boję się też, że ośmiolatki uznają salę zabaw za coś dla maluchów.",
+  "would_change_my_mind": "Gdyby pozwolili przynieść domowe ciasto babci dla dorosłych albo dołożyli warsztaty w cenie pakietu EXTRA, nie zastanawiałabym się wcale; gdyby na zdjęciach sala wyglądała na typową dla przedszkolaków, zrezygnowałabym.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 700,
+  "price_too_expensive": 1000
 }

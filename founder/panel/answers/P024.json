@@ -1,13 +1,13 @@
 {
   "id": "P024",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "need",
-  "reason": "W deszczowy weekend naprawdę nie mam gdzie iść z dzieckiem blisko domu, a 15 zł na start to tani test. Pójdę raz czy dwa sprawdzić, ale karnetu na razie nie kupię.",
-  "objection": "Mała sala szybko się znudzi pięciolatkowi: zjeżdżalnia i basen z kulkami to na godzinę, nie na stałe. Do tego w weekend przy limicie 15 dzieci boję się, że przyjadę i nie będzie miejsca.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 32,
-  "price_too_expensive": 42
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na urodziny dla grupy z przedszkola przyjdzie kilkanaście dzieci, więc z animatorem wychodzi FUN 750 zł plus 60 zł za każde dziecko ponad 8 i jeszcze drugi animator, czyli ok. 1600 zł bez ciast dla dorosłych. Blisko domu i opinie świetne, ale to dużo jak na 2 godziny, a MINI bez animatora dla przedszkolaków nie ma sensu.",
+  "objection": "Animator dopiero w droższym pakiecie, a dopłaty za każde dodatkowe dziecko i zakaz własnych ciast sprawiają, że cena z cennika to tylko początek.",
+  "would_change_my_mind": "Animator w podstawowym pakiecie i pakiet liczony na całą grupę przedszkolną (np. do 15 dzieci) w jednej cenie ok. 900-1000 zł.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 850
 }

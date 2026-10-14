@@ -1,13 +1,13 @@
 {
   "id": "P045",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "convenience",
-  "reason": "Jest blisko, w Baninie, z parkingiem pod budynkiem i osobną miękką strefą dla maluchów, więc w deszczową sobotę pojadę spróbować, zwłaszcza za 15 zł na otwarcie. Po promocji 30 zł za godzinę w weekend to dużo, więc nie będę tam co tydzień.",
-  "objection": "30 zł za jedną godzinę w weekend to za drogo jak na godzinę zabawy, a z maluchem 0-2 i tak siedzę obok i po godzinie często jest już marudny albo chce spać.",
-  "would_change_my_mind": "Gdyby w weekend była ta sama cena co w tygodniu albo tańsza stawka dla dzieci 0-2, chodziłabym regularnie, a nie tylko na próbę.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 26,
-  "price_too_expensive": 38
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Przedszkolna grupa to u nas 18 dzieci, więc w mojej tabelce FUN wychodzi 750 + 10×60 + drugi animator 150 + obowiązkowe ciasto dla dorosłych ok. 180 zł, czyli ponad 1650 zł, a nie 750. Blisko domu i opinie świetne, ale przy takim rachunku najpierw sprawdzę 2-3 inne sale.",
+  "objection": "Zakaz przynoszenia własnego ciasta dla dorosłych i dopłaty za każde dziecko ponad 8 – cena z pakietu nijak się ma do tego, ile realnie zapłacę za całą grupę.",
+  "would_change_my_mind": "Jedna jasna cena za całą grupę do 20 dzieci z animatorem i kawą dla dorosłych, w okolicach 1200 zł, albo zgoda na własne ciasto.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 850
 }

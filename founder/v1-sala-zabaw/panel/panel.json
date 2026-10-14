@@ -1,0 +1,95 @@
+{
+ "n": 100,
+ "seed": 815467,
+ "customer": {
+  "business": "Mała sala zabaw dla dzieci 0-6 lat w Baninie (gmina Żukowo, pod Gdańskiem)",
+  "target": "Rodzice (najczęściej mamy) dzieci 0-6 lat mieszkający w Baninie, Borowcu, Miszewie i okolicach, często na urlopie macierzyńskim/wychowawczym lub pracujący zdalnie",
+  "where": "Banino, gmina Żukowo, pomorskie (przedmieścia Gdańska, nowe osiedla, dużo młodych rodzin)",
+  "age": [
+   25,
+   42
+  ],
+  "segments": [
+   {
+    "name": "Rodzic na urlopie z maluchem 0-2",
+    "share": 0.35,
+    "income": [
+     70000,
+     140000
+    ]
+   },
+   {
+    "name": "Pracujący rodzic przedszkolaka 3-6",
+    "share": 0.4,
+    "income": [
+     100000,
+     220000
+    ]
+   },
+   {
+    "name": "Rodzina z dwójką+ dzieci w wieku 0-6",
+    "share": 0.25,
+    "income": [
+     90000,
+     200000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Bywalec w tygodniu",
+    "share": 0.2,
+    "how": "Szuka miejsca, gdzie można wyjść z domu z maluchem w szare przedpołudnie, chodzi regularnie."
+   },
+   {
+    "name": "Weekendowy wypad",
+    "share": 0.2,
+    "how": "W tygodniu brak czasu, w sobotę/niedzielę szuka atrakcji dla dziecka, gdy pada."
+   },
+   {
+    "name": "Organizator urodzin",
+    "share": 0.12,
+    "how": "Szuka sali na urodziny dziecka, porównuje pakiety i ceny."
+   },
+   {
+    "name": "Czyta opinie i patrzy na czystość",
+    "share": 0.15,
+    "how": "Sprawdza Google i grupy na Facebooku, zwraca uwagę na higienę i bezpieczeństwo."
+   },
+   {
+    "name": "Łowca okazji",
+    "share": 0.13,
+    "how": "Liczy każdą złotówkę, czeka na karnety i promocje."
+   },
+   {
+    "name": "Wierny dużej sali w Gdańsku",
+    "share": 0.1,
+    "how": "Jeździ do dużego centrum zabaw w Gdańsku lub w galerii handlowej przy okazji zakupów."
+   },
+   {
+    "name": "Woli plac zabaw i naturę",
+    "share": 0.1,
+    "how": "Uważa, że dziecko powinno bawić się na dworze, salę zabaw traktuje jako ostateczność."
+   }
+  ],
+  "objections": [
+   "Czy będzie czysto i nie złapiemy infekcji",
+   "Duże sale w Gdańsku mają więcej atrakcji",
+   "Za drogo jak na godzinę zabawy",
+   "Czy jest strefa bezpieczna dla niemowlaka, bez starszych dzieci",
+   "Mamy plac zabaw na osiedlu za darmo",
+   "Czy jest gdzie usiąść i napić się kawy",
+   "Czy da się zaparkować",
+   "Mała sala szybko się znudzi"
+  ],
+  "habits": [
+   "mieszkasz na nowym osiedlu w Baninie i dojeżdżasz do Gdańska obwodnicą",
+   "jesteś w grupie 'Mamy z Banina' na Facebooku",
+   "wozisz starsze dziecko do przedszkola w Baninie",
+   "robisz zakupy w Galerii Bałtyckiej albo w Matarni",
+   "pracujesz zdalnie trzy dni w tygodniu",
+   "w deszczowe dni nie masz pomysłu, co robić z dzieckiem"
+  ]
+ },
+ "pitch": "Kameralna sala zabaw w Baninie dla dzieci 0–6 lat: osobna, miękka strefa dla maluchów 0–2 i strefa dla dzieci 3–6 (zjeżdżalnia, basen z kulkami, kącik sensoryczny i klocki).\nWejście: 25 zł za dziecko za godzinę w tygodniu, 30 zł w weekend; każde rodzeństwo -50%. Karnet 10 godzin: 220 zł. Rodzic wchodzi za darmo.\nMaks. 15 dzieci naraz, sala sprzątana i dezynfekowana codziennie, wejście w skarpetkach.\nKawa, herbata i przekąski dla rodziców przy stolikach z widokiem na salę. Parking pod budynkiem.\nUrodziny w zamkniętej sali: 2 godziny dla 10 dzieci za 650 zł.\nOtwarte pon–pt 9:00–19:00, sob–nd 10:00–19:00. Na otwarcie: pierwsza godzina za 15 zł przez pierwsze dwa tygodnie."
+}

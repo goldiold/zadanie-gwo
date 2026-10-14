@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Na pierwsze urodziny przychodzi głównie rodzina, czyli dorośli, a roczniak nie skorzysta z animatora ani warsztatów. Te pakiety są ułożone pod gromadę starszych dzieci, a ja potrzebuję ładnego miejsca na zdjęcia i porządnego stołu dla dziadków.",
+  "objection": "Nie mogę przynieść własnego ciasta dla dorosłych, a babcia zawsze piecze. Do tego za ciasto trzeba dopłacić 170–190 zł, za deskę wytrawną drugie tyle, a przy 10 dorosłych jeszcze za obsługę kawiarni, więc za imprezę dla roczniaka wychodzi mi ponad 1000 zł.",
+  "would_change_my_mind": "Osobny pakiet na roczek dla małej grupy rodzinnej: sesja zdjęciowa albo efektowna ścianka z dekoracją, kawa dla dorosłych w cenie i zgoda na domowe ciasto od babci.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 650,
+  "price_too_expensive": 900
+}

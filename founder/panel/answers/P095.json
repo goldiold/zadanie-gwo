@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Na roczek przychodzi głównie rodzina, a babcia i tak upiecze ciasto, więc nie będę płacić 550-850 zł za salę, gdzie jej ciasta nie wolno postawić dla dorosłych. A jak już robimy coś w sali, to wolę duże centrum w Gdańsku, gdzie jest więcej atrakcji.",
+  "objection": "Zakaz własnych ciast dla dorosłych - babcia piecze na każdą uroczystość i nie wyobrażam sobie dopłacać 170-190 zł za cudze ciasto. Do tego mała sala w Baninie wydaje mi się uboga w porównaniu z dużym centrum zabaw.",
+  "would_change_my_mind": "Gdyby można było przynieść domowe ciasto babci dla dorosłych i był tańszy pakiet rodzinny pod roczek dla maluchów.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 600,
+  "price_too_expensive": 800
+}

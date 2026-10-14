@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "550 zł za salę bez animatora, a przy grupie z przedszkola to i tak więcej niż 8 dzieci, więc wychodzi grubo ponad 700 zł. W domu albo w przedszkolu zrobię to za połowę, a babcia upiecze ciasto.",
+  "objection": "Nie mogę przynieść ciasta babci dla dorosłych i muszę kupować ich ciasto za 170–190 zł, do tego dopłata za każde dziecko ponad 8 – cena rośnie z każdą pozycją.",
+  "would_change_my_mind": "Gdyby pakiet na całą grupę przedszkolną (ok. 15 dzieci) zamykał się w ok. 500 zł i można było przynieść własne ciasto od babci.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 450,
+  "price_too_expensive": 600
+}

@@ -1,13 +1,13 @@
 {
   "id": "P035",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "need",
-  "reason": "Mam to pod nosem w Baninie, a w deszczowy weekend z maluchem i starszakiem naprawdę nie mam dokąd pójść. Osobna miękka strefa 0-2 i limit 15 dzieci to dokładnie to, czego szukam, więc na promocję za 15 zł na pewno wpadnę sprawdzić.",
-  "objection": "Czy ta strefa dla maluchów jest naprawdę odgrodzona i czy starsze dzieci nie będą tam wbiegać. W weekend z dwójką to 45 zł za godzinę plus kawa, więc jak będzie tłok albo hałas, to drugi raz nie przyjdę.",
-  "would_change_my_mind": "Gdybym przy pierwszej wizycie zobaczyła, że strefa 0-2 nie jest fizycznie oddzielona i duże dzieci po niej biegają, przestałabym przychodzić.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na urodziny z przedszkola przychodzi 18-20 dzieci, więc w mojej tabelce FUN wychodzi 750 + 12 x 60 + drugi animator, do tego ciasto dla dorosłych, którego nie mogę przynieść sama, i robi się ponad 2000 zł. Pakiet bazowy jest tylko na wabia, a przy porównaniu z innymi salami Dziupla nie wygrywa.",
+  "objection": "Dopłaty się sumują: każde dziecko ponad 8 osobno, drugi animator, obsługa kawiarni dla dorosłych, i zakaz własnych ciast, co wymusza 170-190 zł ekstra. Cena pakietu to nie jest prawdziwa cena.",
+  "would_change_my_mind": "Pakiet przedszkolny z ceną za całość dla 20 dzieci, z animatorami i kawą dla rodziców w środku, bez ukrytych dopłat, w okolicach 1400-1500 zł, albo zgoda na własne ciasto.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 650,
+  "price_too_expensive": 900
 }

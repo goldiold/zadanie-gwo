@@ -1,0 +1,38 @@
+{
+  "business": "Mała sala zabaw dla dzieci 0-6 lat w Baninie (gmina Żukowo, pod Gdańskiem)",
+  "target": "Rodzice (najczęściej mamy) dzieci 0-6 lat mieszkający w Baninie, Borowcu, Miszewie i okolicach, często na urlopie macierzyńskim/wychowawczym lub pracujący zdalnie",
+  "where": "Banino, gmina Żukowo, pomorskie (przedmieścia Gdańska, nowe osiedla, dużo młodych rodzin)",
+  "age": [25, 42],
+  "segments": [
+    {"name": "Rodzic na urlopie z maluchem 0-2", "share": 0.35, "income": [70000, 140000]},
+    {"name": "Pracujący rodzic przedszkolaka 3-6", "share": 0.40, "income": [100000, 220000]},
+    {"name": "Rodzina z dwójką+ dzieci w wieku 0-6", "share": 0.25, "income": [90000, 200000]}
+  ],
+  "behaviours": [
+    {"name": "Bywalec w tygodniu", "share": 0.20, "how": "Szuka miejsca, gdzie można wyjść z domu z maluchem w szare przedpołudnie, chodzi regularnie."},
+    {"name": "Weekendowy wypad", "share": 0.20, "how": "W tygodniu brak czasu, w sobotę/niedzielę szuka atrakcji dla dziecka, gdy pada."},
+    {"name": "Organizator urodzin", "share": 0.12, "how": "Szuka sali na urodziny dziecka, porównuje pakiety i ceny."},
+    {"name": "Czyta opinie i patrzy na czystość", "share": 0.15, "how": "Sprawdza Google i grupy na Facebooku, zwraca uwagę na higienę i bezpieczeństwo."},
+    {"name": "Łowca okazji", "share": 0.13, "how": "Liczy każdą złotówkę, czeka na karnety i promocje."},
+    {"name": "Wierny dużej sali w Gdańsku", "share": 0.10, "how": "Jeździ do dużego centrum zabaw w Gdańsku lub w galerii handlowej przy okazji zakupów."},
+    {"name": "Woli plac zabaw i naturę", "share": 0.10, "how": "Uważa, że dziecko powinno bawić się na dworze, salę zabaw traktuje jako ostateczność."}
+  ],
+  "objections": [
+    "Czy będzie czysto i nie złapiemy infekcji",
+    "Duże sale w Gdańsku mają więcej atrakcji",
+    "Za drogo jak na godzinę zabawy",
+    "Czy jest strefa bezpieczna dla niemowlaka, bez starszych dzieci",
+    "Mamy plac zabaw na osiedlu za darmo",
+    "Czy jest gdzie usiąść i napić się kawy",
+    "Czy da się zaparkować",
+    "Mała sala szybko się znudzi"
+  ],
+  "habits": [
+    "mieszkasz na nowym osiedlu w Baninie i dojeżdżasz do Gdańska obwodnicą",
+    "jesteś w grupie 'Mamy z Banina' na Facebooku",
+    "wozisz starsze dziecko do przedszkola w Baninie",
+    "robisz zakupy w Galerii Bałtyckiej albo w Matarni",
+    "pracujesz zdalnie trzy dni w tygodniu",
+    "w deszczowe dni nie masz pomysłu, co robić z dzieckiem"
+  ]
+}

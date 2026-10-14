@@ -1,38 +1,37 @@
 {
-  "business": "Mała sala zabaw dla dzieci 0-6 lat w Baninie (gmina Żukowo, pod Gdańskiem)",
-  "target": "Rodzice (najczęściej mamy) dzieci 0-6 lat mieszkający w Baninie, Borowcu, Miszewie i okolicach, często na urlopie macierzyńskim/wychowawczym lub pracujący zdalnie",
+  "business": "Dziupla - sala zabaw i kawiarnia w Baninie (ul. Przemysłowa 2): oferta urodzinowa 2026",
+  "target": "Rodzice planujący urodziny dziecka w wieku 1-8 lat, mieszkający w Baninie, Borowcu, Miszewie, Żukowie i zachodnich dzielnicach Gdańska",
   "where": "Banino, gmina Żukowo, pomorskie (przedmieścia Gdańska, nowe osiedla, dużo młodych rodzin)",
-  "age": [25, 42],
+  "age": [27, 44],
   "segments": [
-    {"name": "Rodzic na urlopie z maluchem 0-2", "share": 0.35, "income": [70000, 140000]},
-    {"name": "Pracujący rodzic przedszkolaka 3-6", "share": 0.40, "income": [100000, 220000]},
-    {"name": "Rodzina z dwójką+ dzieci w wieku 0-6", "share": 0.25, "income": [90000, 200000]}
+    {"name": "Rodzic malucha 1-3 (pierwsze urodziny w sali, mała grupa rodzinna)", "share": 0.25, "income": [80000, 160000]},
+    {"name": "Rodzic przedszkolaka 4-6 (urodziny dla grupy z przedszkola)", "share": 0.50, "income": [100000, 220000]},
+    {"name": "Rodzic dziecka 7-8 (koledzy z klasy, dziecko ma własne zdanie)", "share": 0.25, "income": [110000, 250000]}
   ],
   "behaviours": [
-    {"name": "Bywalec w tygodniu", "share": 0.20, "how": "Szuka miejsca, gdzie można wyjść z domu z maluchem w szare przedpołudnie, chodzi regularnie."},
-    {"name": "Weekendowy wypad", "share": 0.20, "how": "W tygodniu brak czasu, w sobotę/niedzielę szuka atrakcji dla dziecka, gdy pada."},
-    {"name": "Organizator urodzin", "share": 0.12, "how": "Szuka sali na urodziny dziecka, porównuje pakiety i ceny."},
-    {"name": "Czyta opinie i patrzy na czystość", "share": 0.15, "how": "Sprawdza Google i grupy na Facebooku, zwraca uwagę na higienę i bezpieczeństwo."},
-    {"name": "Łowca okazji", "share": 0.13, "how": "Liczy każdą złotówkę, czeka na karnety i promocje."},
-    {"name": "Wierny dużej sali w Gdańsku", "share": 0.10, "how": "Jeździ do dużego centrum zabaw w Gdańsku lub w galerii handlowej przy okazji zakupów."},
-    {"name": "Woli plac zabaw i naturę", "share": 0.10, "how": "Uważa, że dziecko powinno bawić się na dworze, salę zabaw traktuje jako ostateczność."}
+    {"name": "Chce mieć święty spokój", "share": 0.22, "how": "Płaci więcej, byle nic nie musieć organizować samemu: animator, dekoracje, sprzątanie."},
+    {"name": "Porównuje pakiety i liczy", "share": 0.20, "how": "Robi tabelkę z 3-4 salami, liczy cenę za dziecko i wszystkie dopłaty."},
+    {"name": "Budżetowy", "share": 0.15, "how": "Rozważa urodziny w domu albo w przedszkolu; sala tylko jeśli tanio."},
+    {"name": "Czyta opinie i pyta w grupach", "share": 0.15, "how": "Pyta na grupie 'Mamy z Banina' i sprawdza Google, zanim zadzwoni."},
+    {"name": "Szuka efektu wow", "share": 0.13, "how": "Chce, żeby dziecko i goście zapamiętali urodziny: warsztaty, motyw, zdjęcia na Instagram."},
+    {"name": "Wierny dużemu centrum zabaw", "share": 0.15, "how": "Robił już urodziny w dużej sali w Gdańsku lub w galerii i uważa, że tam jest więcej atrakcji."}
   ],
   "objections": [
-    "Czy będzie czysto i nie złapiemy infekcji",
-    "Duże sale w Gdańsku mają więcej atrakcji",
-    "Za drogo jak na godzinę zabawy",
-    "Czy jest strefa bezpieczna dla niemowlaka, bez starszych dzieci",
-    "Mamy plac zabaw na osiedlu za darmo",
-    "Czy jest gdzie usiąść i napić się kawy",
-    "Czy da się zaparkować",
-    "Mała sala szybko się znudzi"
+    "Do 8 dzieci to za mało, cała grupa z przedszkola to 20+",
+    "Dopłaty się sumują i wychodzi dużo więcej niż cena pakietu",
+    "Nie mogę przynieść własnego ciasta dla dorosłych",
+    "Animator dopiero w droższym pakiecie",
+    "Duża sala w Gdańsku ma więcej atrakcji dla starszych dzieci",
+    "Czy będzie wolny termin w weekend",
+    "W domu zrobię to za połowę tej ceny",
+    "Kawa dla dorosłych płatna w tańszych pakietach"
   ],
   "habits": [
     "mieszkasz na nowym osiedlu w Baninie i dojeżdżasz do Gdańska obwodnicą",
     "jesteś w grupie 'Mamy z Banina' na Facebooku",
-    "wozisz starsze dziecko do przedszkola w Baninie",
-    "robisz zakupy w Galerii Bałtyckiej albo w Matarni",
-    "pracujesz zdalnie trzy dni w tygodniu",
-    "w deszczowe dni nie masz pomysłu, co robić z dzieckiem"
+    "dziecko chodzi do przedszkola w Baninie, grupa ma ok. 22 dzieci",
+    "w zeszłym roku robiłeś/aś urodziny w domu i było ciasno",
+    "byłeś/aś z dzieckiem na urodzinach kolegi w dużej sali w Gdańsku",
+    "babcia zawsze piecze ciasto na rodzinne uroczystości"
   ]
 }

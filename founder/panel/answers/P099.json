@@ -1,0 +1,13 @@
+{
+  "id": "P099",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Policzyłam to dla grupy z przedszkola, czyli ok. 15 dzieci: FUN 750 zł + 7 × 60 zł + drugi animator 150 zł daje ok. 1320 zł, a do tego nie mogę przynieść własnego ciasta dla dorosłych, więc dochodzi jeszcze 170–190 zł. Sala w Gdańsku, z której wróciłam, wychodzi w mojej tabelce podobnie albo taniej i animator jest tam w cenie, więc Dziupla na razie nie wygrywa.",
+  "objection": "Animator jest dopiero w droższym pakiecie, a cena 550 zł jest tylko na 8 dzieci. Przy całej grupie dopłaty za dzieci, drugiego animatora i obowiązkowe ciasta na miejscu robią z tego zupełnie inną kwotę niż ta na start.",
+  "would_change_my_mind": "Pakiet z animatorem dla 15 dzieci w jednej, pełnej cenie (ok. 1000 zł) albo zgoda na własne ciasto dla dorosłych.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 650,
+  "price_too_expensive": 900
+}

@@ -1,13 +1,13 @@
 {
   "id": "P048",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "quality",
-  "reason": "Limit 15 dzieci, codzienna dezynfekcja i wejście w skarpetkach to dokładnie to, czego brakuje mi w zatłoczonych bawialniach w galeriach, a mam blisko. Pracuję, więc realnie wpadnę w weekend albo w deszczowe popołudnie, zwłaszcza za 15 zł na otwarcie, ale najpierw sprawdzę opinie na grupie Banina.",
-  "objection": "Czy ta strefa 0-2 naprawdę jest oddzielona i pilnowana, żeby starsze dzieci tam nie wbiegały, i czy 'sprzątana codziennie' to nie tylko hasło - na razie nie ma żadnych opinii, a w weekend 30 zł za godzinę to już nie jest grosz.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Byłem właśnie na urodzinach w dużej sali w Gdańsku i tam dzieciaki miały dużo więcej atrakcji za podobne pieniądze. Za 750-850 zł z dopłatami za całą grupę z przedszkola wolę dużą salę albo zrobić to w domu za połowę.",
+  "objection": "Grupa z przedszkola to raczej 15-20 dzieci, więc te 550 zł szybko robi się 1000-1400 zł z dopłatami za dzieci, drugiego animatora i obsługę dorosłych, a do tego nie mogę przynieść własnego ciasta dla dorosłych. Mała sala w Baninie nie da tyle atrakcji co duże centrum.",
+  "would_change_my_mind": "Gdyby pakiet z animatorem dla całej grupy 15+ dzieci kosztował łącznie poniżej 900 zł bez ukrytych dopłat i można było przynieść własne ciasto.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 600,
+  "price_too_expensive": 800
 }

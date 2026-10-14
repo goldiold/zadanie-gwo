@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "price",
+  "reason": "Pójdę z dziećmi na otwarcie, bo pierwsza godzina za 15 zł i rodzeństwo za pół ceny to się opłaca, a blisko domu i parking pod budynkiem. Ale po promocji 37,50 zł za godzinę za dwójkę to już sporo jak na regularne wyjścia.",
+  "objection": "Mała sala szybko się znudzi - dzieci obejdą zjeżdżalnię i basen z kulkami w pół godziny i potem co, płacę za stanie przy stoliku.",
+  "would_change_my_mind": "Gdyby karnet był tańszy albo obejmował rodzeństwo w cenie godziny (np. karnet rodzinny), to chodziłabym regularnie, nie tylko na promocję.",
+  "price_too_cheap": 10,
+  "price_cheap": 15,
+  "price_expensive": 22,
+  "price_too_expensive": 30
+}

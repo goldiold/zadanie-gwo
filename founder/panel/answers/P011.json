@@ -1,13 +1,13 @@
 {
   "id": "P011",
-  "buys": true,
-  "purchases_first_month": 3,
-  "reason_code": "need",
-  "reason": "Osobna miękka strefa dla 0-2 i limit 15 dzieci to dokładnie to, czego szukam na urlopie, a blisko domu i z parkingiem. Za 15 zł na otwarcie sprawdzę na pewno, potem pewnie raz na tydzień albo dwa, a nie codziennie.",
-  "objection": "Czy ta strefa dla maluchów jest naprawdę oddzielona, czy trzylatki i tak będą tam wbiegać i deptać mi dziecko. Jak tak, to więcej nie przyjdę.",
-  "would_change_my_mind": "Gdybym na miejscu zobaczyła, że starsze dzieci swobodnie wchodzą do strefy niemowlęcej albo że jest tłoczno i brudno, to rezygnuję.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Na urodziny dla całej grupy z przedszkola i tak pojadę do dużego centrum zabaw w Gdańsku albo w galerii, tam dzieci mają więcej atrakcji niż w jednej sali z kawiarnią. Pakiet jest do 8 dzieci, a mnie przyjdzie 15-20, więc z dopłatą za każde dziecko, drugim animatorem i ciastem dla dorosłych robi się z 750 zł grubo ponad 1500 zł.",
+  "objection": "Dopłaty się sumują: każde dziecko ponad 8 osobno, drugi animator od 15 dzieci, obsługa dorosłych, a do tego nie mogę przynieść własnego ciasta dla dorosłych, tylko muszę kupić na miejscu za 170-190 zł. Cena z ulotki to nie jest cena, którą zapłacę.",
+  "would_change_my_mind": "Jedna cena za całą grupę przedszkolną, np. do 20 dzieci z animatorem i kawą dla rodziców, bez ukrytych dopłat, i możliwość przyniesienia własnego ciasta.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 600,
+  "price_too_expensive": 850
 }

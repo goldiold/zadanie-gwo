@@ -1,13 +1,13 @@
 {
   "id": "P012",
-  "buys": true,
-  "purchases_first_month": 4,
-  "reason_code": "convenience",
-  "reason": "Mam to pod nosem w Baninie, parking pod budynkiem i jest osobna strefa dla młodszego, więc w szare przedpołudnie zamiast jechać do Gdańska po prostu tam pójdę. Na otwarcie za 15 zł spróbuję od razu, a jak będzie czysto i spokojnie, wezmę karnet.",
-  "objection": "Przy dwójce dzieci to i tak prawie 40 zł za godzinę, a godzina z maluchami szybko mija, więc boję się, że realnie wyjdzie drożej, niż wygląda na plakacie. Do tego nie wiem, czy przy 15 dzieciach naraz w tygodniu będzie miejsce, jak przyjdą żłobkowe grupy albo pół osiedla.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 12,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "To pierwsze urodziny, przyjdą głównie dziadkowie i ciocie, a roczniak i tak nie skorzysta z animatora ani sali zabaw. Policzyłem: MINI 550 zł plus obowiązkowe ciasto na miejscu za 170-190 zł to ponad 700 zł, a w domu zrobię to za połowę.",
+  "objection": "Zakaz przynoszenia własnych ciast dla dorosłych przy imprezie, gdzie dorosłych jest więcej niż dzieci, do tego dopłata za obsługę kawiarni od 10 dorosłych. Cena bazowa wygląda niewinnie, a w tabelce wychodzi dużo więcej.",
+  "would_change_my_mind": "Osobny pakiet dla roczniaka z rodziną, ok. 400 zł w cenie z kawą i możliwością przyniesienia własnego ciasta dla dorosłych.",
+  "price_too_cheap": 200,
+  "price_cheap": 320,
+  "price_expensive": 450,
+  "price_too_expensive": 600
 }

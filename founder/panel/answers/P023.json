@@ -1,13 +1,13 @@
 {
   "id": "P023",
-  "buys": true,
-  "purchases_first_month": 3,
-  "reason_code": "convenience",
-  "reason": "Mam to pod nosem w Baninie, z parkingiem i osobną strefą dla maluchów, więc nie muszę jechać obwodnicą do Gdańska; za 15 zł na otwarcie sprawdzę, czy jest tam naprawdę czysto, a jak tak, to rozważę też urodziny.",
-  "objection": "Dezynfekcja raz dziennie to dla mnie za mało, gdy maluchy biorą zabawki do buzi przez cały dzień, a nic nie słyszę o tym, czy ktoś pilnuje, żeby nie przyprowadzano chorych, zasmarkanych dzieci.",
-  "would_change_my_mind": "Gdybym przy pierwszej wizycie zobaczyła brudną strefę 0-2, kaszlące dzieci albo zatłoczoną salę, nie wrócę i nie zrobię tam urodzin.",
-  "price_too_cheap": 12,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na urodziny dla grupy z przedszkola przyjdzie z 15-20 dzieci, więc MINI wychodzi ponad 1000 zł, i to bez animatora, a z animatorem w FUN prawie 1500 zł. Za takie pieniądze wolę zrobić urodziny w przedszkolu albo w domu i kupić tort.",
+  "objection": "Cena podstawowa jest tylko za 8 dzieci, a cała grupa to dwa razy tyle. Animator jest dopiero w droższym pakiecie, a do tego nie mogę przynieść własnego ciasta dla dorosłych, więc dopłacam jeszcze za ciasto na miejscu.",
+  "would_change_my_mind": "Pakiet dla całej grupy przedszkolnej (do 20 dzieci) z animatorem w okolicach 700-800 zł, na przykład w dzień powszedni po południu.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 550,
+  "price_too_expensive": 750
 }

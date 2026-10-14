@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": true,
+  "purchases_first_month": 4,
+  "reason_code": "convenience",
+  "reason": "Mamy to pod nosem w Baninie, z parkingiem, a w szare popołudnia po przedszkolu albo w wolny dzień nie muszę się tłuc obwodnicą do Gdańska do wielkiej, głośnej sali. Limit 15 dzieci i codzienna dezynfekcja trafiają dokładnie w to, czego się boję, więc spróbuję w promocji i jak będzie czysto, wezmę karnet.",
+  "objection": "Czy ta codzienna dezynfekcja to fakt czy tylko hasło: basen z kulkami i kącik sensoryczny to siedlisko zarazków, a jeden katar po wizycie i mam tydzień zwolnienia z pracy.",
+  "would_change_my_mind": "Gdybym przy pierwszej wizycie zobaczył brudne kulki, zasmarkane dzieci bez reakcji obsługi albo więcej niż obiecane 15 dzieci, nie wrócę.",
+  "price_too_cheap": 12,
+  "price_cheap": 18,
+  "price_expensive": 32,
+  "price_too_expensive": 45
+}

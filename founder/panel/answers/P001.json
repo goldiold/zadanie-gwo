@@ -1,13 +1,13 @@
 {
   "id": "P001",
-  "buys": true,
-  "purchases_first_month": 1,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Normalnie jesteśmy na placu zabaw albo w lesie, ale jak w weekend leje i jest zimno, to raz w miesiącu skorzystam, zwłaszcza za 15 zł na otwarcie. Na karnet czy regularne wizyty się nie piszę.",
-  "objection": "Mała sala na 15 dzieci szybko się znudzi mojemu przedszkolakowi, zjeżdżalnia i basen z kulkami to po dwóch wizytach już nic nowego, a i tak wolę, żeby się wybiegał na dworze.",
-  "would_change_my_mind": "Gdyby była większa strefa ruchowa dla 3-6 albo zmieniające się zajęcia (np. warsztaty sensoryczne), to przychodzilibyśmy częściej zimą.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 28,
-  "price_too_expensive": 38
+  "reason": "Urodziny dla całej grupy z przedszkola robię w dużym centrum zabaw w Gdańsku, bo tam jest więcej atrakcji i dzieci się nie nudzą. Mała sala na Baninie jest blisko, ale nie widzę, czym zajmie 15-20 dzieci przez dwie godziny lepiej niż duża sala.",
+  "objection": "Na grupę z przedszkola to wcale nie wychodzi tanio: pakiet jest do 8 dzieci, każde kolejne dopłacam, do tego drugi animator, obsługa dorosłych, a ciasta muszę kupić u nich. A i tak nie wiem, czy będzie wolny termin w weekend i czy sala nie jest za mała na tyle atrakcji.",
+  "would_change_my_mind": "Gdyby znajoma mama z przedszkola zrobiła tam urodziny dla całej grupy i dzieci były zachwycone, a ja dostałabym jasną cenę za 18 dzieci i wolną sobotę.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 700,
+  "price_too_expensive": 950
 }

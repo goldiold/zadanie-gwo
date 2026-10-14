@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "convenience",
+  "reason": "Na deszczową sobotę to jest blisko domu, z parkingiem pod budynkiem i stolikiem z kawą, więc zamiast jechać do Matarni mogę tu posiedzieć godzinkę, a za 15 zł na otwarcie spróbuję bez wahania.",
+  "objection": "Boję się, że dla mojego przedszkolaka to będzie za małe i po pół godzinie się znudzi, a w deszczowy weekend przy limicie 15 dzieci przyjadę i nie wejdziemy.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 12,
+  "price_cheap": 20,
+  "price_expensive": 35,
+  "price_too_expensive": 45
+}

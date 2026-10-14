@@ -1,13 +1,13 @@
 {
   "id": "P013",
-  "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "convenience",
-  "reason": "Parking pod budynkiem i blisko domu, a w deszczowy weekend albo popołudnie po przedszkolu muszę coś zrobić z dzieckiem, więc za 15 zł na otwarcie sprawdzę. W tygodniu i tak jest w przedszkolu, więc to raczej weekendy i pojedyncze popołudnia, nie stały rytuał.",
-  "objection": "To nowe miejsce bez żadnych opinii w Google ani na grupach, więc nie wiem, czy ta codzienna dezynfekcja to fakt czy hasło; basen z kulkami to dla mnie zawsze znak zapytania co do higieny. Boję się też, że dla prawie sześciolatka jedna zjeżdżalnia i klocki szybko się znudzą.",
-  "would_change_my_mind": "",
-  "price_too_cheap": 12,
-  "price_cheap": 18,
-  "price_expensive": 32,
-  "price_too_expensive": 40
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na grupę z przedszkola wyjdzie ponad 8 dzieci, więc MINI szybko robi się 750-800 zł, a animator jest dopiero w droższym pakiecie. Za to samo zrobię urodziny w przedszkolu albo w domu prawie za darmo.",
+  "objection": "Płacę dużo za salę bez animatora, a do tego nie mogę przynieść ciasta babci dla dorosłych i musiałbym kupować ich ciasta po 170-190 zł.",
+  "would_change_my_mind": "Pakiet z animatorem w cenie około 500 zł za całą grupę przedszkolną i zgoda na własne ciasto od babci.",
+  "price_too_cheap": 200,
+  "price_cheap": 300,
+  "price_expensive": 450,
+  "price_too_expensive": 600
 }

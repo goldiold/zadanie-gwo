@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Policzyłem w tabelce: na całą grupę z przedszkola, około 20 dzieci, FUN wychodzi 750 + 12×60 + 150 za drugiego animatora, czyli około 1620 zł, plus dorośli i ciasto z ich menu. Ponad 80 zł za dziecko w małej sali, a w dużej sali w Gdańsku za podobne pieniądze starsze dzieci mają więcej atrakcji.",
+  "objection": "Cena bazowa wygląda dobrze, ale przy grupie przedszkolnej dopłaty się mnożą, a do tego nie mogę przynieść własnego ciasta dla dorosłych i muszę kupić ich za 170–190 zł. Nie wiem też, czy 5-6-latkom wystarczy ta sala na 2 godziny.",
+  "would_change_my_mind": "Pakiet z jedną ceną na 20 dzieci (np. do 1300 zł z animatorem i kawą dla rodziców) albo zgoda na własne ciasto dla dorosłych.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 700,
+  "price_too_expensive": 950
+}

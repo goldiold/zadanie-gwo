@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Do tej pory wybierałem duże centrum zabaw w Gdańsku albo salę w galerii, bo tam dzieci mają więcej atrakcji. Za 550 zł za MINI bez animatora dostaję mniejszą salę, a na grupę z przedszkola i tak dopłacę za każde dziecko powyżej ośmiu.",
+  "objection": "Grupa z przedszkola to raczej 12-15 dzieci, więc MINI wychodzi koło 800-850 zł, a z animatorem ponad tysiąc. Do tego nie mogę przynieść własnego ciasta dla dorosłych i muszę zamówić na miejscu za 170-190 zł. Za tyle wolę duże centrum, a w domu zrobiłbym to za połowę.",
+  "would_change_my_mind": "Pakiet z animatorem dla całej grupy przedszkolnej (ok. 15 dzieci) w jednej cenie około 700 zł, bez zakazu własnego ciasta.",
+  "price_too_cheap": 200,
+  "price_cheap": 350,
+  "price_expensive": 500,
+  "price_too_expensive": 650
+}

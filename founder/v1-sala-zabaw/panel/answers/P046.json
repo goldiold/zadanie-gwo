@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "price",
+  "reason": "Za 15 zł na otwarcie wpadnę z małym raz czy dwa, bo jest kawa, stolik i parking, a ja w zdalne dni i tak szukam, gdzie go wybawić po przedszkolu. Za pełne 25 zł za godzinę to już będzie okazjonalnie, a nie co tydzień.",
+  "objection": "25 zł za jedną godzinę to dużo jak za samą salę, a kawa i przekąski pewnie płatne osobno, więc wyjście robi się 40 zł. Karnet 220 zł to tylko 22 zł za godzinę, czyli żadna wielka zniżka.",
+  "would_change_my_mind": "Karnet, który naprawdę się opłaca, np. 10 godzin za 180 zł, albo kawa dla rodzica w cenie wejścia.",
+  "price_too_cheap": 10,
+  "price_cheap": 16,
+  "price_expensive": 22,
+  "price_too_expensive": 30
+}

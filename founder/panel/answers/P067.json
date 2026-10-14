@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Robię urodziny dla całej grupy z przedszkola, czyli 18-20 dzieci, i przy tych dopłatach za każde dziecko, drugiego animatora i obsługę dorosłych wychodzi mi ponad 1500-1800 zł za salę w Baninie. Za podobne pieniądze w dużym centrum zabaw w Gdańsku albo w galerii dzieci mają dużo więcej atrakcji, więc zostaję przy tym, co znam.",
+  "objection": "Cena pakietu jest tylko na 8 dzieci, a reszta to dopłaty, które się sumują. Do tego zakaz własnych ciast dla dorosłych i ciasto na miejscu za 170-190 zł, więc realny rachunek jest dużo wyższy niż to, co widać na pierwszy rzut oka.",
+  "would_change_my_mind": "Jedna pełna cena za pakiet dla 20 dzieci z animatorem, bez dopłat za każdy drobiazg, wyraźnie niższa niż w dużym centrum zabaw w Gdańsku.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 650,
+  "price_too_expensive": 900
+}

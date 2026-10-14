@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Na co dzień mamy plac zabaw na osiedlu za darmo, a urodzin żadnego z dzieci nie mamy w najbliższym miesiącu, więc teraz nie mam powodu tu iść. Zapiszę sobie tę salę i porównam ją, kiedy przyjdzie czas na urodziny.",
+  "objection": "Za 650 zł nie wiem, co właściwie dostaję: czy jest animator, jedzenie, tort, dekoracje, i co jeśli przyjdzie 12 dzieci, a nie 10. Bez tego nie mogę tego porównać z innymi pakietami.",
+  "would_change_my_mind": "Jasna lista, co jest w pakiecie urodzinowym (animator, poczęstunek, dopłata za dodatkowe dziecko) i cena w porównaniu z innymi salami, akurat gdy zbliżają się urodziny.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 30,
+  "price_too_expensive": 40
+}

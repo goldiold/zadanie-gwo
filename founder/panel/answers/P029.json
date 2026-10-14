@@ -1,13 +1,13 @@
 {
   "id": "P029",
   "buys": true,
-  "purchases_first_month": 2,
-  "reason_code": "price",
-  "reason": "Za 15 zł na otwarcie pójdę sprawdzić, najpewniej w sobotę, bo w tygodniu pracuję. Potem tylko z karnetem, a 30 zł za godzinę w weekend to dla mnie za dużo, żeby chodzić regularnie.",
-  "objection": "Czy nie złapiemy infekcji, bo w sezonie ludzie przyprowadzają zasmarkane dzieci, a sprzątanie raz dziennie to dla mnie za mało, kiedy przez cały dzień przewija się kilkadziesiąt dzieci w kulkach.",
-  "would_change_my_mind": "Gdyby karnet działał też w weekendy po tej samej cenie i gdyby była jasna zasada, że chorych dzieci nie wpuszczają, a basen z kulkami jest czyszczony kilka razy dziennie, chodziłabym co tydzień.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 25,
-  "price_too_expensive": 35
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "To jest blisko, w Baninie, ma 4,9 na Google i dziewczyny z grupy 'Mamy z Banina' pewnie tam były – sala na wyłączność, animator i przekąski bez limitu to dokładnie to, czego nie chcę ogarniać sama w domu dla grupy z przedszkola. Wezmę raczej MINI albo FUN, jeśli znajdzie się wolna sobota.",
+  "objection": "Czy będzie wolny termin w weekend, i to, że przy 22 dzieciach z grupy cena rośnie bardzo szybko – MINI wychodzi ponad 1100 zł, FUN prawie 1600 zł, a do tego nie mogę przynieść własnego ciasta dla dorosłych i muszę dopłacać 170–190 zł.",
+  "would_change_my_mind": "Gdyby nie było żadnego wolnego terminu w sobotę lub niedzielę w miesiącu urodzin – wtedy zrobię urodziny gdzie indziej albo w domu.",
+  "price_too_cheap": 250,
+  "price_cheap": 400,
+  "price_expensive": 650,
+  "price_too_expensive": 900
 }

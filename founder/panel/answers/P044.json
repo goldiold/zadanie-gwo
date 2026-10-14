@@ -1,13 +1,13 @@
 {
   "id": "P044",
-  "buys": true,
-  "purchases_first_month": 2,
+  "buys": false,
+  "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Pójdę na otwarcie, bo pierwsza godzina za 15 zł to promocja, a blisko i z parkingiem, więc sprawdzę z dziećmi. Ale za normalne 25 zł plus połowa za drugie dziecko, czyli prawie 40 zł za godzinę, będę chodzić rzadko, raczej w deszczowe dni.",
-  "objection": "Za drogo jak na godzinę zabawy, przy dwójce dzieci to prawie 40 zł, a godzina mija błyskawicznie. Karnet 220 zł to sporo na raz, nie wiem, czy go wychodzę.",
-  "would_change_my_mind": "Gdyby wejście było bez limitu czasu albo przynajmniej 2 godziny w cenie jednej w tygodniu przed południem, albo tańszy karnet rodzinny dzielony na rodzeństwo, chodziłabym regularnie co tydzień.",
-  "price_too_cheap": 10,
-  "price_cheap": 15,
-  "price_expensive": 22,
-  "price_too_expensive": 30
+  "reason": "Na urodziny dla grupy z przedszkola przychodzi z 18-20 dzieci, więc FUN z animatorem wychodzi mi w tabelce ok. 1500-1650 zł z drugim animatorem, plus ciasto dla dorosłych, którego nie mogę przynieść. Wolę jeszcze porównać z innymi salami w okolicy, zanim to zarezerwuję.",
+  "objection": "Cena bazowa jest tylko do 8 dzieci, a animator dopiero w droższym pakiecie, więc realna kwota dla całej grupy rośnie przez dopłaty za każde dziecko, drugiego animatora i zakaz własnych ciast.",
+  "would_change_my_mind": "Pakiet z animatorem w cenie dla ok. 15-20 dzieci za stałą kwotę około 1100-1200 zł, bez dopłat za każde dziecko.",
+  "price_too_cheap": 300,
+  "price_cheap": 450,
+  "price_expensive": 600,
+  "price_too_expensive": 800
 }
