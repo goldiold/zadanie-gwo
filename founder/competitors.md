@@ -85,5 +85,5 @@ Położenie na mapie to ocena na podstawie cen i opisów, a nie pomiar.
 
 ## 6. Zagrożenie
 
-- **Madagaskar (Banino, Lipowa 19)** jest w tej samej miejscowości co Dziupla, ma więcej opinii (415–434) i większą konstrukcję do zabawy. Najszybciej skopiowałby ryczałt grupowy albo pakiet na roczek, bo ma tę samą bazę klientów.
+- **Madagaskar (Banino, Lipowa 19)** jest w tej samej miejscowości co Dziupla, ma więcej opinii (415–434) i 3-poziomową konstrukcję do zabawy (216 m²). Najszybciej skopiowałby ryczałt grupowy albo pakiet na roczek, bo ma tę samą bazę klientów.
 - **Dzikie Pląsy** już mają ryczałt grupowy. Wystarczy, że dołożą termin popołudniowy albo kawę dla rodziców, a odbiorą Dziupli rodziców przedszkolaków z Osowej i Banina.
