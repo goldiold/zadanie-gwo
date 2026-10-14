@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "599 zł za przerobioną używaną marynarkę to dla mnie za dużo – w Zarze czy Mango kupię nową za 250–350 zł, a na Vinted vintage'ową za 100–150 zł. Do tego płatna wysyłka i brak przymierzenia, więc ryzykuję sporo kasy.",
+  "objection": "Płacę prawie 600 zł plus wysyłkę za coś, czego nie przymierzę, i nie wiem, czy po przeróbce krawieckiej będzie dobrze leżeć – a zwrot pewnie też na mój koszt.",
+  "would_change_my_mind": "Cena w okolicach 350 zł z darmową wysyłką i darmowym zwrotem.",
+  "price_too_cheap": 120,
+  "price_cheap": 220,
+  "price_expensive": 350,
+  "price_too_expensive": 450
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "599 zł to dla mnie prawie jedna szósta miesięcznej pensji, a vintage'ową wełnianą marynarkę oversize wyrwę na Vinted za 80–150 zł. Pomysł fajny, ale za tę kwotę nie kupię impulsywnie czegoś, czego nie mogę przymierzyć.",
+  "objection": "Nie mogę przymierzyć i boję się, że po przeróbce nie będzie dobrze leżeć – same wymiary w tabelce mi nie wystarczą, a przy 599 zł zwrot i opłacona wysyłka to dla mnie stres i strata.",
+  "would_change_my_mind": "Darmowy zwrot plus zdjęcia/rolka tej konkretnej marynarki na kimś o podobnej figurze (np. u influencerki, którą obserwuję) i cena bliżej 350 zł.",
+  "price_too_cheap": 120,
+  "price_cheap": 250,
+  "price_expensive": 380,
+  "price_too_expensive": 500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Sama kupuję oversize'owe męskie marynarki na Vinted za 50–80 zł, nawet wełniane, więc 599 zł to dla mnie ponad siedem razy więcej niż płacę. Przeróbka u krawcowej to fajny pomysł, ale za taką kwotę wolę znaleźć coś sama i ewentualnie oddać do poprawki.",
+  "objection": "Płacę głównie za przeróbkę i markę, a baza to używana marynarka, którą sama upolowałabym za grosze; do tego płatna wysyłka i zakup tylko na ich stronie, bez możliwości negocjacji jak na Vinted.",
+  "would_change_my_mind": "Cena koło 300 zł albo marynarka z naprawdę wyjątkowej tkaniny lub znanej marki, której nie znajdę sama w lumpeksie.",
+  "price_too_cheap": 80,
+  "price_cheap": 180,
+  "price_expensive": 320,
+  "price_too_expensive": 450
+}

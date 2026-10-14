@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "values",
+  "reason": "To jest dokładnie to, czego szukam: lokalny upcykling, wełna albo tweed, jedna sztuka i nie z sieciówki. 599 zł to dużo, ale za porządną przerobioną marynarkę zapłacę, pod warunkiem że wymiary mi pasują.",
+  "objection": "Kupuję w ciemno bez przymierzenia, a przerobiona męska marynarka może źle leżeć mimo zgodnych wymiarów. Do tego chcę wiedzieć, czy naprawdę jest czysta i w dobrym stanie: \"wyprana i odświeżona\" to dla mnie za mało, wolałabym zdjęcia z bliska podszewki, pach i mankietów.",
+  "would_change_my_mind": "Gdyby na zdjęciach było widać plamy, przetarcia albo zmechacenia, albo gdyby zwrot był na mój koszt i skomplikowany, zrezygnowałabym.",
+  "price_too_cheap": 200,
+  "price_cheap": 380,
+  "price_expensive": 650,
+  "price_too_expensive": 850
+}

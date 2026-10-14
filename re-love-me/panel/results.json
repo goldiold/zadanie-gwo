@@ -1,0 +1,148 @@
+{
+ "business": "re-love me – damskie marynarki i koszule przerobione z męskich ubrań z drugiej ręki, sprzedaż na własnej stronie",
+ "seed": 349699,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 2,
+ "passes": 18,
+ "buy_rate": 0.1,
+ "by_segment": [
+  [
+   "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+   5,
+   0.2
+  ],
+  [
+   "Młoda profesjonalistka w mieście (27–34)",
+   8,
+   0.125
+  ],
+  [
+   "Studentka / początek kariery (22–27)",
+   7,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Slow fashion z przekonania",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Kupuje w sieciówkach",
+   4,
+   0.0
+  ],
+  [
+   "Trendy z Instagrama/TikToka",
+   4,
+   0.0
+  ],
+  [
+   "Łowczyni z Vinted",
+   4,
+   0.0
+  ],
+  [
+   "Kupuje na prezent",
+   2,
+   0.0
+  ],
+  [
+   "Szuka jakości i dobrego kroju",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$57,000 to $106,000",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "$106,000 and up",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "under $57,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   11,
+   [
+    "599 zł za przerobioną używaną marynarkę to dla mnie za dużo – w Zarze czy Mango kupię nową za 250–350 zł, a na Vinted vintage'ową za 100–150 zł. Do tego płatna wysyłka i brak przymierzenia, więc ryzykuję sporo kasy.",
+    "599 zł to dwa razy tyle, co nowa marynarka w Zarze, a zarabiam ok. 4 tys. miesięcznie. Do tego płacę za wysyłkę i nie mogę jej przymierzyć, więc przy takiej cenie sobie odpuszczam."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   6,
+   [
+    "Za 599 zł mogę kupić nową wełnianą marynarkę w dobrej marce na wyprzedaży, a tu płacę za używaną rzecz po przeróbce, której nie widziałam na żywo. Zwężenie ramion w męskiej marynarce to najtrudniejsza poprawka, a ja nie mam jak sprawdzić, czy krawcowa zrobiła to porządnie.",
+    "Wełna i tweed to dokładnie to, czego szukam, i 599 zł za dobrą tkaninę nie jest dla mnie szalone, ale nie znam tej marki i nie wiem, jak wygląda szycie po przeróbce. Zapiszę post na Instagramie, ale przy tej kwocie nie kupię w ciemno w tym miesiącu."
+   ],
+   [
+    "P011",
+    "P012"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Szukam prezentu, a marynarki na prezent kupić się nie da – musiałabym znać wymiary siostry czy mamy co do centymetra, a sztuka jest jedna, więc nie wymienię na inny rozmiar. 599 zł mogę wydać, ale nie na zgadywanie."
+   ],
+   [
+    "P008"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "values",
+   2,
+   [
+    "To jest dokładnie to, czego szukam: lokalny upcykling, wełna albo tweed, jedna sztuka i nie z sieciówki. 599 zł to dużo, ale za porządną przerobioną marynarkę zapłacę, pod warunkiem że wymiary mi pasują.",
+    "Wełniana albo tweedowa marynarka przerobiona z męskiej to dokładnie to, za co chętnie płacę więcej niż w sieciówce, a ta jedna z Zary w mojej szafie i tak mnie uwiera. 599 zł za porządną tkaninę i pracę krawcowej to dla mnie uczciwa cena, jeśli wymiary mi pasują."
+   ],
+   [
+    "P007",
+    "P009"
+   ]
+  ]
+ ],
+ "flip": [
+  "Cena w okolicach 350 zł z darmową wysyłką i darmowym zwrotem.",
+  "Cena koło 350 zł z darmową wysyłką i darmowym zwrotem, żebym mogła bez ryzyka zamówić i przymierzyć w domu.",
+  "Gdybym zobaczyła ją na kimś, kogo obserwuję na Instagramie, z kodem zniżkowym i cena spadłaby w okolice 300–350 zł.",
+  "Cena koło 250–300 zł z darmową wysyłką i darmowym zwrotem.",
+  "Cena w okolicach 300 zł albo opinie i zdjęcia od prawdziwych klientek pokazujące, że krój jest naprawdę dopracowany jak u krawca na miarę.",
+  "Cena w okolicach 250-300 zł albo darmowy zwrot, żebym mogła spokojnie przymierzyć.",
+  "Karta podarunkowa albo możliwość wymiany/dopasowania u krawcowej po prezencie, plus ładne opakowanie prezentowe.",
+  "Cena w okolicach 350–400 zł z darmową wysyłką i darmowym zwrotem, plus zdjęcia na modelce z podanym rozmiarem.",
+  "Zdjęcia z bliska szwów i ramion od środka oraz na modelce w ruchu, opinie klientek z prawdziwymi zdjęciami, i darmowy zwrot – albo cena bliżej 450 zł.",
+  "Zbliżenia szwów i podszewki od środka plus zdjęcia na kilku sylwetkach albo opinie klientek, najlepiej z darmowym zwrotem przy pierwszym zamówieniu.",
+  "Cena koło 300–350 zł albo zobaczenie jej u influencerki, którą obserwuję, z bliskimi zdjęciami szwów i podszewki, plus darmowy zwrot.",
+  "Cena w okolicach 300–350 zł albo dużo prawdziwych zdjęć i opinii klientek na Instagramie pokazujących, jak marynarki leżą na różnych sylwetkach, plus darmowy zwrot.",
+  "Gdybym zobaczyła ją na Instagramie u influencerki, którą obserwuję, z realnymi zdjęciami z bliska tkaniny i podszewki oraz opiniami kupujących.",
+  "Opinie prawdziwych klientek ze zdjęciami na sobie i możliwość podarowania karty podarunkowej albo wymiany rozmiaru przez obdarowaną.",
+  "Zdjęcia każdej marynarki na kilku osobach o różnych sylwetkach z podanym ich wzrostem i wymiarami plus darmowy zwrot – wtedy ryzyko byłoby po stronie marki, nie mojej.",
+  "Darmowy zwrot plus zdjęcia/rolka tej konkretnej marynarki na kimś o podobnej figurze (np. u influencerki, którą obserwuję) i cena bliżej 350 zł.",
+  "Szczegółowe zdjęcia wykończenia od środka i z bliska plus prawdziwe zdjęcia klientek w tych marynarkach z opiniami, najlepiej z podanym składem tkaniny na metce.",
+  "Cena koło 300 zł albo marynarka z naprawdę wyjątkowej tkaniny lub znanej marki, której nie znajdę sama w lumpeksie."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

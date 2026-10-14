@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "599 zł za przerobioną marynarkę z drugiej ręki to dla mnie za dużo – w Zarze czy Mango kupię nową za 300–400 zł z darmowym zwrotem, a męską oversize na Vinted za 50 zł. Unikalność jest fajna i lubię się czymś pochwalić, ale nie aż tak.",
+  "objection": "Płacę prawie sześć stów, wysyłka płatna, nie mogę przymierzyć, a jak nie leży, to zwrot przez nieznany sklep i pewnie jeszcze na mój koszt. Same wymiary w centymetrach nie powiedzą mi, jak to na mnie wygląda.",
+  "would_change_my_mind": "Cena w okolicach 350–400 zł z darmową wysyłką i darmowym zwrotem, plus zdjęcia na modelce z podanym rozmiarem.",
+  "price_too_cheap": 120,
+  "price_cheap": 250,
+  "price_expensive": 400,
+  "price_too_expensive": 550
+}

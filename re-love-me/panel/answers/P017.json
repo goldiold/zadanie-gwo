@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Idea mi się bardzo podoba, upcykling męskich marynarek to dokładnie moje klimaty, ale 599 zł to u mnie spory kawałek miesięcznego budżetu, a nie mam pewności, że przerobiona marynarka będzie na mnie dobrze leżeć. Na razie zapisałabym stronę i obserwowała, zamiast kupować w ciemno.",
+  "objection": "Nie mogę jej przymierzyć, a przerobiona męska marynarka to nie jest standardowy rozmiar – same wymiary w centymetrach nie powiedzą mi, jak ułożą się ramiona. Jak nie będzie pasować, tracę czas i płacę za wysyłkę w obie strony.",
+  "would_change_my_mind": "Zdjęcia każdej marynarki na kilku osobach o różnych sylwetkach z podanym ich wzrostem i wymiarami plus darmowy zwrot – wtedy ryzyko byłoby po stronie marki, nie mojej.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 450,
+  "price_too_expensive": 650
+}

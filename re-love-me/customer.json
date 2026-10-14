@@ -1,0 +1,36 @@
+{
+  "business": "re-love me – damskie marynarki i koszule przerobione z męskich ubrań z drugiej ręki, sprzedaż na własnej stronie",
+  "target": "Kobiety 22–40 lat z polskich miast, które lubią oversize'owe i vintage'owe marynarki, kupują przez Instagram i sklepy internetowe, częściowo świadomie wybierają rzeczy z drugiej ręki",
+  "where": "Polska, głównie większe miasta (Warszawa, Kraków, Trójmiasto, Wrocław, Poznań), zakupy online",
+  "age": [22, 40],
+  "segments": [
+    {"name": "Studentka / początek kariery (22–27)", "share": 0.35, "income": [30000, 60000]},
+    {"name": "Młoda profesjonalistka w mieście (27–34)", "share": 0.40, "income": [60000, 120000]},
+    {"name": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej", "share": 0.25, "income": [100000, 200000]}
+  ],
+  "behaviours": [
+    {"name": "Łowczyni z Vinted", "share": 0.20, "how": "Większość ubrań kupuje z drugiej ręki na Vinted i w lumpeksach, poluje na okazje."},
+    {"name": "Slow fashion z przekonania", "share": 0.15, "how": "Unika sieciówek ze względów ekologicznych, chętnie płaci więcej za lokalne i upcyklingowe marki."},
+    {"name": "Trendy z Instagrama/TikToka", "share": 0.20, "how": "Kupuje to, co widzi u influencerek, często impulsywnie przez Instagram."},
+    {"name": "Kupuje w sieciówkach", "share": 0.20, "how": "Marynarki kupuje w Zarze, Mango, Reserved; liczy się wygoda, rozmiar i darmowy zwrot."},
+    {"name": "Szuka jakości i dobrego kroju", "share": 0.15, "how": "Zwraca uwagę na skład (wełna, tweed), szycie i dopasowanie; kupuje mało, ale drożej."},
+    {"name": "Kupuje na prezent", "share": 0.10, "how": "Szuka oryginalnego prezentu dla siostry, przyjaciółki lub mamy."}
+  ],
+  "objections": [
+    "Na Vinted kupię męską marynarkę oversize za 50 zł",
+    "Nie mogę przymierzyć, boję się, że nie będzie dobrze leżeć",
+    "Ponad 400 zł za używane ubranie to dużo",
+    "W Zarze mam nową marynarkę za 300 zł z darmowym zwrotem",
+    "Nie znam tej marki, czy mogę jej zaufać",
+    "Czy jest czysta i w dobrym stanie",
+    "Czy da się ją zwrócić, jeśli nie będzie pasować"
+  ],
+  "habits": [
+    "przeglądasz Instagram wieczorem i zapisujesz stylizacje",
+    "masz aplikację Vinted na telefonie",
+    "chodzisz do pracy w stylu smart casual",
+    "kupujesz ubrania głównie online",
+    "lubisz pokazywać unikalne rzeczy znajomym",
+    "masz w szafie jedną marynarkę z sieciówki"
+  ]
+}

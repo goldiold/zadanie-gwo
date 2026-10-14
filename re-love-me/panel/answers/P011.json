@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Za 599 zł mogę kupić nową wełnianą marynarkę w dobrej marce na wyprzedaży, a tu płacę za używaną rzecz po przeróbce, której nie widziałam na żywo. Zwężenie ramion w męskiej marynarce to najtrudniejsza poprawka, a ja nie mam jak sprawdzić, czy krawcowa zrobiła to porządnie.",
+  "objection": "Nie wiem, kto i jak szyje te przeróbki. Przerobione ramiona często źle się układają, a przy cenie prawie 600 zł plus wysyłka i ryzyko odsyłania nie chcę grać w ciemno.",
+  "would_change_my_mind": "Zdjęcia z bliska szwów i ramion od środka oraz na modelce w ruchu, opinie klientek z prawdziwymi zdjęciami, i darmowy zwrot – albo cena bliżej 450 zł.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 450,
+  "price_too_expensive": 650
+}

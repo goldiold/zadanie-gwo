@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Męską wełnianą marynarkę na Vinted kupię za 40-80 zł, a nową w Zarze mam za 300 zł z darmowym zwrotem. 599 zł za przerobioną używaną to dla mnie za dużo, przy moich zarobkach nie wydam tyle na jedną marynarkę.",
+  "objection": "Płacę dwa razy więcej niż za nową w sieciówce za coś z drugiej ręki, bez przymierzenia, a jeszcze dopłacam za wysyłkę i pewnie za zwrot, jeśli nie będzie leżeć.",
+  "would_change_my_mind": "Cena w okolicach 250-300 zł albo darmowy zwrot, żebym mogła spokojnie przymierzyć.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 400
+}

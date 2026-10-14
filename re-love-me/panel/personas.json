@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Marco",
+  "age": 23,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 76000,
+  "behaviour": "Kupuje w sieciówkach",
+  "behaviour_how": "Marynarki kupuje w Zarze, Mango, Reserved; liczy się wygoda, rozmiar i darmowy zwrot.",
+  "objection": "Ponad 400 zł za używane ubranie to dużo",
+  "habit": "masz aplikację Vinted na telefonie"
+ },
+ {
+  "id": "P002",
+  "name": "Cole",
+  "age": 33,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 48000,
+  "behaviour": "Kupuje w sieciówkach",
+  "behaviour_how": "Marynarki kupuje w Zarze, Mango, Reserved; liczy się wygoda, rozmiar i darmowy zwrot.",
+  "objection": "W Zarze mam nową marynarkę za 300 zł z darmowym zwrotem",
+  "habit": "kupujesz ubrania głównie online"
+ },
+ {
+  "id": "P003",
+  "name": "Talia",
+  "age": 26,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 109000,
+  "behaviour": "Trendy z Instagrama/TikToka",
+  "behaviour_how": "Kupuje to, co widzi u influencerek, często impulsywnie przez Instagram.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "chodzisz do pracy w stylu smart casual"
+ },
+ {
+  "id": "P004",
+  "name": "Declan",
+  "age": 37,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 38000,
+  "behaviour": "Kupuje w sieciówkach",
+  "behaviour_how": "Marynarki kupuje w Zarze, Mango, Reserved; liczy się wygoda, rozmiar i darmowy zwrot.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "masz w szafie jedną marynarkę z sieciówki"
+ },
+ {
+  "id": "P005",
+  "name": "Zara",
+  "age": 34,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 105000,
+  "behaviour": "Łowczyni z Vinted",
+  "behaviour_how": "Większość ubrań kupuje z drugiej ręki na Vinted i w lumpeksach, poluje na okazje.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "masz w szafie jedną marynarkę z sieciówki"
+ },
+ {
+  "id": "P006",
+  "name": "Andre",
+  "age": 39,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 46000,
+  "behaviour": "Łowczyni z Vinted",
+  "behaviour_how": "Większość ubrań kupuje z drugiej ręki na Vinted i w lumpeksach, poluje na okazje.",
+  "objection": "W Zarze mam nową marynarkę za 300 zł z darmowym zwrotem",
+  "habit": "chodzisz do pracy w stylu smart casual"
+ },
+ {
+  "id": "P007",
+  "name": "Ethan",
+  "age": 40,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 85000,
+  "behaviour": "Slow fashion z przekonania",
+  "behaviour_how": "Unika sieciówek ze względów ekologicznych, chętnie płaci więcej za lokalne i upcyklingowe marki.",
+  "objection": "Czy jest czysta i w dobrym stanie",
+  "habit": "przeglądasz Instagram wieczorem i zapisujesz stylizacje"
+ },
+ {
+  "id": "P008",
+  "name": "Sol",
+  "age": 23,
+  "segment": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+  "income": 140000,
+  "behaviour": "Kupuje na prezent",
+  "behaviour_how": "Szuka oryginalnego prezentu dla siostry, przyjaciółki lub mamy.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "masz aplikację Vinted na telefonie"
+ },
+ {
+  "id": "P009",
+  "name": "Julian",
+  "age": 36,
+  "segment": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+  "income": 180000,
+  "behaviour": "Slow fashion z przekonania",
+  "behaviour_how": "Unika sieciówek ze względów ekologicznych, chętnie płaci więcej za lokalne i upcyklingowe marki.",
+  "objection": "W Zarze mam nową marynarkę za 300 zł z darmowym zwrotem",
+  "habit": "masz w szafie jedną marynarkę z sieciówki"
+ },
+ {
+  "id": "P010",
+  "name": "Jade",
+  "age": 32,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 91000,
+  "behaviour": "Kupuje w sieciówkach",
+  "behaviour_how": "Marynarki kupuje w Zarze, Mango, Reserved; liczy się wygoda, rozmiar i darmowy zwrot.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "lubisz pokazywać unikalne rzeczy znajomym"
+ },
+ {
+  "id": "P011",
+  "name": "Jordan",
+  "age": 38,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 83000,
+  "behaviour": "Szuka jakości i dobrego kroju",
+  "behaviour_how": "Zwraca uwagę na skład (wełna, tweed), szycie i dopasowanie; kupuje mało, ale drożej.",
+  "objection": "Ponad 400 zł za używane ubranie to dużo",
+  "habit": "masz w szafie jedną marynarkę z sieciówki"
+ },
+ {
+  "id": "P012",
+  "name": "Ruby",
+  "age": 34,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 57000,
+  "behaviour": "Szuka jakości i dobrego kroju",
+  "behaviour_how": "Zwraca uwagę na skład (wełna, tweed), szycie i dopasowanie; kupuje mało, ale drożej.",
+  "objection": "W Zarze mam nową marynarkę za 300 zł z darmowym zwrotem",
+  "habit": "przeglądasz Instagram wieczorem i zapisujesz stylizacje"
+ },
+ {
+  "id": "P013",
+  "name": "Amara",
+  "age": 35,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 41000,
+  "behaviour": "Trendy z Instagrama/TikToka",
+  "behaviour_how": "Kupuje to, co widzi u influencerek, często impulsywnie przez Instagram.",
+  "objection": "Czy jest czysta i w dobrym stanie",
+  "habit": "kupujesz ubrania głównie online"
+ },
+ {
+  "id": "P014",
+  "name": "Sara",
+  "age": 31,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 99000,
+  "behaviour": "Łowczyni z Vinted",
+  "behaviour_how": "Większość ubrań kupuje z drugiej ręki na Vinted i w lumpeksach, poluje na okazje.",
+  "objection": "Nie znam tej marki, czy mogę jej zaufać",
+  "habit": "masz aplikację Vinted na telefonie"
+ },
+ {
+  "id": "P015",
+  "name": "Clara",
+  "age": 28,
+  "segment": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+  "income": 133000,
+  "behaviour": "Trendy z Instagrama/TikToka",
+  "behaviour_how": "Kupuje to, co widzi u influencerek, często impulsywnie przez Instagram.",
+  "objection": "Czy jest czysta i w dobrym stanie",
+  "habit": "masz w szafie jedną marynarkę z sieciówki"
+ },
+ {
+  "id": "P016",
+  "name": "Luis",
+  "age": 35,
+  "segment": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+  "income": 178000,
+  "behaviour": "Kupuje na prezent",
+  "behaviour_how": "Szuka oryginalnego prezentu dla siostry, przyjaciółki lub mamy.",
+  "objection": "Nie znam tej marki, czy mogę jej zaufać",
+  "habit": "masz aplikację Vinted na telefonie"
+ },
+ {
+  "id": "P017",
+  "name": "Dev",
+  "age": 40,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 43000,
+  "behaviour": "Slow fashion z przekonania",
+  "behaviour_how": "Unika sieciówek ze względów ekologicznych, chętnie płaci więcej za lokalne i upcyklingowe marki.",
+  "objection": "Nie mogę przymierzyć, boję się, że nie będzie dobrze leżeć",
+  "habit": "kupujesz ubrania głównie online"
+ },
+ {
+  "id": "P018",
+  "name": "Seth",
+  "age": 29,
+  "segment": "Studentka / początek kariery (22–27)",
+  "income": 49000,
+  "behaviour": "Trendy z Instagrama/TikToka",
+  "behaviour_how": "Kupuje to, co widzi u influencerek, często impulsywnie przez Instagram.",
+  "objection": "Nie mogę przymierzyć, boję się, że nie będzie dobrze leżeć",
+  "habit": "masz aplikację Vinted na telefonie"
+ },
+ {
+  "id": "P019",
+  "name": "Levi",
+  "age": 27,
+  "segment": "Kobieta 34–40 z ugruntowaną pozycją, kupuje mniej, ale lepiej",
+  "income": 155000,
+  "behaviour": "Szuka jakości i dobrego kroju",
+  "behaviour_how": "Zwraca uwagę na skład (wełna, tweed), szycie i dopasowanie; kupuje mało, ale drożej.",
+  "objection": "Nie znam tej marki, czy mogę jej zaufać",
+  "habit": "przeglądasz Instagram wieczorem i zapisujesz stylizacje"
+ },
+ {
+  "id": "P020",
+  "name": "Keisha",
+  "age": 30,
+  "segment": "Młoda profesjonalistka w mieście (27–34)",
+  "income": 106000,
+  "behaviour": "Łowczyni z Vinted",
+  "behaviour_how": "Większość ubrań kupuje z drugiej ręki na Vinted i w lumpeksach, poluje na okazje.",
+  "objection": "Na Vinted kupię męską marynarkę oversize za 50 zł",
+  "habit": "chodzisz do pracy w stylu smart casual"
+ }
+]
