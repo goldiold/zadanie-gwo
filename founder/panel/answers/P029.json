@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "price",
+  "reason": "Za 15 zł na otwarcie pójdę sprawdzić, najpewniej w sobotę, bo w tygodniu pracuję. Potem tylko z karnetem, a 30 zł za godzinę w weekend to dla mnie za dużo, żeby chodzić regularnie.",
+  "objection": "Czy nie złapiemy infekcji, bo w sezonie ludzie przyprowadzają zasmarkane dzieci, a sprzątanie raz dziennie to dla mnie za mało, kiedy przez cały dzień przewija się kilkadziesiąt dzieci w kulkach.",
+  "would_change_my_mind": "Gdyby karnet działał też w weekendy po tej samej cenie i gdyby była jasna zasada, że chorych dzieci nie wpuszczają, a basen z kulkami jest czyszczony kilka razy dziennie, chodziłabym co tydzień.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 25,
+  "price_too_expensive": 35
+}

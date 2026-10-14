@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "Jak w weekend leje, a z maluchem nie ma gdzie się podziać, to osobna miękka strefa 0-2, kawa przy stoliku i parking pod budynkiem brzmią dokładnie jak to, czego szukam. Na otwarcie za 15 zł spróbuję, potem tylko w deszczowe soboty czy niedziele.",
+  "objection": "Czy roczne dziecko w ogóle wytrzyma i wykorzysta pełną godzinę za 30 zł, i czy przy limicie 15 dzieci w deszczowy weekend nie będzie kompletu, kiedy przyjadę.",
+  "would_change_my_mind": "Gdyby w weekend było pełno bez możliwości rezerwacji albo strefa dla maluchów była zalewana przez starsze dzieci, wróciłbym do kącika w galerii.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 32,
+  "price_too_expensive": 42
+}

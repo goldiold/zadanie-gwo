@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "price",
+  "reason": "Pójdę tylko na promocję otwarcia po 15 zł, najlepiej w deszczowy dzień, kiedy osiedlowy plac zabaw odpada. Za normalną cenę z dwójką dzieci to prawie 40 zł za godzinę, a plac pod blokiem mamy za darmo.",
+  "objection": "Za regularną cenę to drogo jak na godzinę, a dzieci chcą zostać dłużej niż godzinę, więc rachunek szybko rośnie. Na co dzień plac zabaw na osiedlu wystarcza.",
+  "would_change_my_mind": "Tańszy karnet rodzinny liczony na rodzinę, a nie na dziecko, np. 10 godzin dla dwójki za ok. 250 zł, albo stała zniżka w dni powszednie przed południem.",
+  "price_too_cheap": 10,
+  "price_cheap": 15,
+  "price_expensive": 22,
+  "price_too_expensive": 30
+}
