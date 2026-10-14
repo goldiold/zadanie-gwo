@@ -1,0 +1,72 @@
+{
+ "business": "re-love me – sp. z o.o., VAT (cel: 15 000 zł na rękę)",
+ "unit": "marynarka",
+ "price": 332.52,
+ "variable": [
+  {
+   "label": "Męska marynarka (zakup, bez faktury VAT)",
+   "cost": 6
+  },
+  {
+   "label": "Krawcowa – przeróbka (83 zł brutto → netto)",
+   "cost": 67.48
+  },
+  {
+   "label": "Pranie / parowanie (szacunek, netto)",
+   "cost": 4
+  },
+  {
+   "label": "Opakowanie, metka (szacunek, netto)",
+   "cost": 5
+  },
+  {
+   "label": "Prowizja za płatność ~2% (szacunek)",
+   "cost": 8
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Księgowość pełna sp. z o.o. (szacunek)",
+   "cost": 800
+  },
+  {
+   "label": "Reklama Meta/Google (szacunek)",
+   "cost": 2500
+  },
+  {
+   "label": "Sklep / domena / narzędzia (szacunek)",
+   "cost": 150
+  },
+  {
+   "label": "Sesje zdjęciowe (szacunek)",
+   "cost": 200
+  }
+ ],
+ "startup": [
+  {
+   "label": "Zapas 20 marynarek gotowych do sprzedaży (20 x 89 zł)",
+   "cost": 1780
+  },
+  {
+   "label": "Sklep internetowy i zdjęcia na start (szacunek)",
+   "cost": 1500
+  }
+ ],
+ "days_per_month": 1,
+ "plan_per_day": 30,
+ "ramp_per_day": [
+  6,
+  9,
+  12,
+  15,
+  18,
+  21,
+  24,
+  27,
+  30,
+  30,
+  30,
+  30
+ ],
+ "capacity_per_day": 30
+}
