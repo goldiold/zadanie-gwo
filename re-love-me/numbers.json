@@ -1,0 +1,25 @@
+{
+  "business": "re-love me – damskie marynarki z męskich (cel: utrzymać się z marki)",
+  "unit": "marynarka",
+  "price": 409,
+  "variable": [
+    {"label": "Męska marynarka (zakup)", "cost": 6},
+    {"label": "Krawcowa – przeróbka", "cost": 83},
+    {"label": "Pranie / parowanie (szacunek)", "cost": 5},
+    {"label": "Opakowanie, metka (szacunek)", "cost": 6},
+    {"label": "Prowizja za płatność ~2% (szacunek)", "cost": 8}
+  ],
+  "fixed_monthly": [
+    {"label": "ZUS + składka zdrowotna przy pełnym ZUS (szacunek, do sprawdzenia)", "cost": 2400},
+    {"label": "Reklama Instagram/Meta (szacunek, potrzebna do wzrostu)", "cost": 1000},
+    {"label": "Sklep / domena / narzędzia (szacunek)", "cost": 150},
+    {"label": "Sesje zdjęciowe, rekwizyty (szacunek)", "cost": 100}
+  ],
+  "startup": [
+    {"label": "Zapas 20 marynarek gotowych do sprzedaży (20 x 89 zł)", "cost": 1780},
+    {"label": "Sklep internetowy i zdjęcia na start (szacunek)", "cost": 1500}
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 30,
+  "ramp_per_day": [4, 6, 8, 10, 12, 15, 17, 19, 21, 23, 25, 27]
+}
